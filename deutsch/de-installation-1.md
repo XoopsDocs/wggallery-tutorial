@@ -1,4 +1,0 @@
-# \(De-\)Installation
-
-bla bla
-

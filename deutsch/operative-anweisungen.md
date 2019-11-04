@@ -1,2 +1,0 @@
-# Operative Anweisungen
-
