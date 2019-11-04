@@ -16,7 +16,7 @@ wgGallery supports multifile upload. The upload tool handle the upload itself, b
 
   ![](../../.gitbook/assets/important.png) You can change settings for allowed size/image dimension in [Options for image upload](../preferences/options-for-image-upload.md)
 
-* If all files fullfill the conditions this will be confirmed  ![](../../.gitbook/assets/upload2.png) 
+* If all files fullfill the conditions this will be confirmed ![](../../.gitbook/assets/upload2.png)
 * wgGallery takes the file name as default for image title. if you want to change you can click on the suggested title or on the pen and change as you want  ![](../../.gitbook/assets/upload3.png) 
 * Start upload
 * Processes during upload
@@ -38,7 +38,4 @@ After uploading the images you can goto
 * [Image index](image-index.md) in order to check all images
 * [Image management](image-management.md) in order to check/change sorting of images
 * [Album image](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-Lsp6ZJlrSkVXk5zy3up/english/the-user-side/album-image) in order to select an image as album image
-
-  
- 
 

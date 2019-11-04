@@ -1,16 +1,16 @@
 # wgGallery Tutorial
 
-![logoModule.png](.gitbook/assets/logomodule.png)
+![](.gitbook/assets/logomodule.png)
 
-### Version: 1.14 RC1
+#### Version: 1.14 RC1
 
-### for XOOPS 2.5.10+
+#### for XOOPS 2.5.10+
 
-### for PHP 7.0 +
+#### for PHP 7.0 +
 
 ## User Manual
 
-© 2014 The XOOPS Project \(www.xoops.org\)
+© 2019 The XOOPS Project \(www.xoops.org\)
 
 ## Module Purpose
 
@@ -22,9 +22,9 @@ All used templates on user side are fully responsive.
 
 **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
-_Figure 1: Main view of the wgGallery Module \(Admin side\)_
+![Example of image gallery on user side](.gitbook/assets/gallery1.png)
 
-![0dashboard1.png](.gitbook/assets/0dashboard.png)
+![Dashboard on admin side](.gitbook/assets/0dashboard.png)
 
 ## License:
 
