@@ -35,7 +35,7 @@ wgGallery supports multifile upload. The upload tool handle the upload itself, b
 
 After uploading the images you can goto
 
-* [Image index](../../english/the-user-side/image-index.md) in order to check all images
+* [Image index](image-index.md) in order to check all images
 * [Image management](image-management.md) in order to check/change sorting of images
-* [Album image](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-Lsp6ZJlrSkVXk5zy3up/english/the-user-side/album-image) in order to select an image as album image
+* [Album image](album-image.md) in order to select an image as album image
 
