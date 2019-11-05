@@ -1,4 +1,4 @@
-# Image upload
+# Bilder hochladen
 
 wgGallery supports multifile upload. The upload tool handle the upload itself, but also various other jobs.
 

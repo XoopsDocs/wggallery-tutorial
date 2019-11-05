@@ -1,4 +1,4 @@
-# Options for display
+# Optionen für Anzeige
 
 ## List items admin pages
 

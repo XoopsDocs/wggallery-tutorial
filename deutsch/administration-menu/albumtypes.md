@@ -1,4 +1,4 @@
-# Album Types
+# Albumtypen
 
 You can define various different album types. Depending on your selection and your settings the albums will be shown in different ways of displaying.
 

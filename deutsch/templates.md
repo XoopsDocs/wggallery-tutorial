@@ -1,8 +1,8 @@
 # Templates
 
-wgGallery enthät folgende Templates
+wgGallery enthält folgende Templates
 
-## 1 Benutzertemplates
+## 1. Benutzertemplates
 
 * wggallery\_header.tpl
 * wggallery\_index\_default.tpl
@@ -42,12 +42,12 @@ wgGallery enthät folgende Templates
 * wggallery\_upload.tpl
 * wggallery\_footer.tpl
 
-## 2 Blocktemplates
+## 2. Blocktemplates
 
 * wggallery\_block\_albums\_default.tpl
 * wggallery\_block\_images\_default.tpl
 
-## 3 Admintemplates
+## 3. Admintemplates
 
 * wggallery\_admin\_about.tpl
 * wggallery\_admin\_header.tpl

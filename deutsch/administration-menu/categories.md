@@ -1,4 +1,4 @@
-# Categories
+# Kategorien
 
 You can define various categories, which you can used to classify for images or your albums.
 

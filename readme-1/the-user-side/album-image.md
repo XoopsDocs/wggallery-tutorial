@@ -4,15 +4,15 @@ wgGallery includes a comprehensive tool for selection/creation of an album image
 
 All as album image created images will have the dimension defined in preferences [Options for image processing](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-Lsqk8-Spsq-MZPZqK7e/english/preferences/options-for-image-processing).
 
-### Tabs of editor for album image
+## Tabs of editor for album image
 
-#### 1. Current
+### 1. Current
 
 Tab current shows you current album image, if there is already one define.
 
 ![](../../.gitbook/assets/albumimage1.png)
 
-#### 2. Use an image of album as album image
+### 2. Use an image of album as album image
 
 You can use on of the images, which are within your album. If you are editing a collection you will have all images of all subalbums available.  
 On left side you get a preview of all images. Click on one in order to show it in bigger preview on right side.
@@ -21,7 +21,7 @@ On left side you get a preview of all images. Click on one in order to show it i
 
 For final selection please click on "Apply".
 
-#### 3. Create a grid
+### 3. Create a grid
 
 Optionally you can also create a grid of 4 or 6 images, based on images of your album.  
 First step: decide whether you want to make a grid of 4 or 6 images
@@ -53,7 +53,7 @@ After click on "Create grid" the image will be created and a preview appears on 
 
 For final selection please click on "Apply".
 
-#### 4. Crop image
+### 4. Crop image
 
 Once you have selected an image for your album you can additonal crop or edit it.
 
@@ -62,7 +62,7 @@ Once you have selected an image for your album you can additonal crop or edit it
 You can crop, zoom in or out, rotate and so on. If you think the selected range is fine then "Create image".  
 For final selection please click on "Apply".
 
-#### 5. Upload new image
+### 5. Upload new image
 
 Last possibility is to upload a new image or use one of the images in directory /uploads/wggallery/images/albums/.
 

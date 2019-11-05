@@ -1,6 +1,6 @@
 # Displaying albums
 
-Depending on your selected gallery type the images will be shown in a gallery \(image grid or slideshow\).  
+Depending on your selected gallery type the images will be shown in a gallery \(image grid or slideshow\).
 
 ![Example: LC Lightbox LITE](../../.gitbook/assets/gallery1.png)
 

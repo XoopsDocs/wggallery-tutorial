@@ -1,4 +1,4 @@
-# Options for image processing
+# Optionen für Bildverarbeitung
 
 ## Maximum width large image
 

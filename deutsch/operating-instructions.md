@@ -1,4 +1,4 @@
-# Bedienungsanaleitung
+# Benutzeranleitung
 
 Für die Präsentation von Alben mit Bildern gehen Sie wie folgt vor:
 

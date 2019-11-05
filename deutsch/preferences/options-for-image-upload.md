@@ -1,4 +1,4 @@
-# Options for image upload
+# Optionen für Bilderupload
 
 ## Max size
 

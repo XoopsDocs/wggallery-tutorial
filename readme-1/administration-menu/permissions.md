@@ -1,8 +1,8 @@
 # Permissions
 
-On the dashboard tab 'Permissions' you can manage the permissions for wgGallery. 
+On the dashboard tab 'Permissions' you can manage the permissions for wgGallery.
 
-### 1. Global permissions
+## 1. Global permissions
 
 Global permissions will be applied in general.
 
@@ -21,7 +21,7 @@ Global permissions will be applied in general.
   * edit own albums 
   * upload images to own albums
 
-### 2. Album permissions
+## 2. Album permissions
 
 Album permissions will be applied for each album seperately.
 
@@ -29,7 +29,7 @@ Album permissions will be applied for each album seperately.
 * Permissions to download full album \(groups which should have permissions to download the full album at once\) Permissions to view/download large images \(groups which should have permissions to view and download large images\) 
 * Permissions to view/download medium images \(groups which should have permissions to view and download medium images\)
 
-### 3. Collection permissions
+## 3. Collection permissions
 
 Collection permissions will be applied for each collection seperately.
 

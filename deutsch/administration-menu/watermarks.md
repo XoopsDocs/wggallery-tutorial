@@ -1,4 +1,4 @@
-# Watermarks
+# Wasserzeichen
 
 You can define various watermarks, which you can added to oploaded images.  
 You can also decide to which kind of image it will be added. The watermark will be added during upload process.  

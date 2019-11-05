@@ -9,3 +9,4 @@ wgGallery bietet verschiedene Blöcke an:
 * Block Bilder: Zeigt eine defnierte Anzahl an Bildern in einem Block an. Es gibt die Möglichkeit z.B. zufällige oder die neuesten Bilder anzeigen zu lassen.
 
 ![Example: Block Bilder - Darstellung &quot;default&quot; ](../.gitbook/assets/blocks2.png)
+

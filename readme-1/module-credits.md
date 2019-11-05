@@ -2,9 +2,9 @@
 
 This module was originally developed by Goffy \(www.wedega.com\).
 
-This module was created with TDMCreate, from TDM Team, modified by Timgno \([http://www.txmodxoops.org](http://www.txmodxoops.org)\) 
+This module was created with TDMCreate, from TDM Team, modified by Timgno \([http://www.txmodxoops.org](http://www.txmodxoops.org)\)
 
-Contributors: Goffy \([XOOPS Germany](https://www.myxoops.org)\),  Mamba \([https://www.xoops.org](http://www.xoops.org)\), Mage \([https://www.xoops.org](http://www.xoops.org)\), geekwright \([https://www.xoops.org](http://www.xoops.org)\), Lupin \([https://www.xoops.org](http://www.xoops.org)\)
+Contributors: Goffy \([XOOPS Germany](https://www.myxoops.org)\), Mamba \([https://www.xoops.org](http://www.xoops.org)\), Mage \([https://www.xoops.org](http://www.xoops.org)\), geekwright \([https://www.xoops.org](http://www.xoops.org)\), Lupin \([https://www.xoops.org](http://www.xoops.org)\)
 
 Gallery types:
 

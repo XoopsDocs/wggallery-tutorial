@@ -1,4 +1,4 @@
-# About
+# Über
 
 This tab provides info about current version of wgGallery and info about the last changes.
 

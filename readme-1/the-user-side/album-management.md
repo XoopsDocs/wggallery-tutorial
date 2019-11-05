@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-On the album management page you get an overview about all albums and collections 
+On the album management page you get an overview about all albums and collections
 
 ![](../../.gitbook/assets/albummanagement1.png)
 
@@ -19,12 +19,12 @@ An album contains one or more images. You can set the permissions for each album
 Collections are like a container or folder for one or more albums. Permissions set for a collection are not valid for the contained albums.  
 A collection should not have images, as they will be nowhere displayed.  
 you can recognize a collection on the displayed number of albums in it:  
-![](../../.gitbook/assets/albummanagement3.png) 
+![](../../.gitbook/assets/albummanagement3.png)
 
 ## 3. Sorting albums
 
-![](../../.gitbook/assets/albummanagement2.png)   
-You can easily sort them by drag&drop.   
+![](../../.gitbook/assets/albummanagement2.png)  
+You can easily sort them by drag&drop.  
 With a click on "+" you can expand a collection, with "-" reduce it.  
 You can create a nested tree up to as many levels you want.
 

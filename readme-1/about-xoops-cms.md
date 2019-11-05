@@ -1,6 +1,6 @@
 # About XOOPS CMS
 
-![](https://github.com/XoopsDocs/wggallery-tutorial/tree/970974041b371931e9142e26945f03af9877c0f0/assets/logoXoops.jpg)
+![](../.gitbook/assets/logoxoops.jpg)
 
 ## 10.0 About XOOPS CMS
 

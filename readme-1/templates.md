@@ -2,7 +2,7 @@
 
 wgGallery contains following templates
 
-## 1 User templates
+## 1. User templates
 
 * wggallery\_header.tpl
 * wggallery\_index\_default.tpl
@@ -42,12 +42,12 @@ wgGallery contains following templates
 * wggallery\_upload.tpl
 * wggallery\_footer.tpl
 
-## 2 Block templates
+## 2. Block templates
 
 * wggallery\_block\_albums\_default.tpl
 * wggallery\_block\_images\_default.tpl
 
-## 3 Admin templates
+## 3. Admin templates
 
 * wggallery\_admin\_about.tpl
 * wggallery\_admin\_header.tpl

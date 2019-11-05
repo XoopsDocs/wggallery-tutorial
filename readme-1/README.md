@@ -1,6 +1,6 @@
-# wgGallery Tutorial
+# English
 
-![](.gitbook/assets/logomodule.png)
+![](../.gitbook/assets/logomodule.png)
 
 ### Version: 1.14 RC1
 
@@ -57,9 +57,9 @@ All used templates on user side are fully responsive.
 
 **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
-![Example of image gallery on user side](.gitbook/assets/gallery1.png)
+![Example of image gallery on user side](../.gitbook/assets/gallery1.png)
 
-![Dashboard on admin side](.gitbook/assets/0dashboard.png)
+![Dashboard on admin side](../.gitbook/assets/0dashboard.png)
 
 ## License:
 

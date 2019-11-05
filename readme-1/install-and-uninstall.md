@@ -18,3 +18,4 @@ No special measures necessary, follow the standard installation process – extr
 To uninstall the module, just click on the red arrow
 
 ![The Module Administration and un-install](../.gitbook/assets/uninstall.png)
+
