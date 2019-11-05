@@ -1,5 +1,7 @@
 # Deutsch
 
+![](../.gitbook/assets/logoxoops.jpg)
+
 ![](https://github.com/XoopsDocs/wggallery-tutorial/tree/53d06d34717d3fb84fa4ab18667205b757310866/deutsch/.gitbook/assets/logomodule.png)
 
 ### Version: 1.14 RC1
