@@ -60,5 +60,5 @@ For more information concerning categories see [Categories](categories.md).
 
 ### 2.8. Tags
 
-Each image or album can have various tags, which can also classify your images. These categories can also used for targeted search.
+Each image or album can have various tags, which can also classify your images. These tags can also used for targeted search.
 

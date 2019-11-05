@@ -6,7 +6,7 @@ On the dashboard tab 'Maintenance' wgGallery provides a comprehensive maintenanc
 
 With this tool you can keep your module clean and executable. It provides:
 
-* System checks
+* [System checks](system-check.md)
 * Maintain gallerytypes
 * Maintain albumtypes
 * Resize images
