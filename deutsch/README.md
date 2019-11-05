@@ -57,9 +57,9 @@ Alle verwendeten Templates auf der Benutzerseite sind voll Responsive.
 
 **Dieses Modul funktioniert nur in Kombination mit einem Bootstrap Theme oder Sie müssen Bootstrap zusätzlich einbinden.**
 
-![Beispiel einer Bildergalerie auf der Benutzerseite](https://github.com/XoopsDocs/wggallery-tutorial/tree/53d06d34717d3fb84fa4ab18667205b757310866/deutsch/.gitbook/assets/gallery1.png)
+![Beispiel einer Bildergalerie auf der Benutzerseite](../.gitbook/assets/gallery1.png)
 
-![&#xDC;bersichtsseite im Adminbereich](https://github.com/XoopsDocs/wggallery-tutorial/tree/53d06d34717d3fb84fa4ab18667205b757310866/deutsch/.gitbook/assets/0dashboard.png)
+![&#xDC;bersichtsseite im Adminbereich](../.gitbook/assets/0dashboard.png)
 
 ## Lizenz:
 
