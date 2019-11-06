@@ -23,7 +23,6 @@ On the dashboard you get a short overview about the functionalities and the cont
 ## 3. Functionalities for admins:
 
 * [Albums](albums.md)
-* [Album Types](albumtypes.md)
 * [Images](images.md)
 * [Gallery Types](gallerytypes.md)
 * [Album Types](albumtypes.md)
