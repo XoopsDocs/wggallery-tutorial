@@ -3,17 +3,17 @@
 wgGallery beinhaltet ein umfassendes Tool für die Auswahl/Bearbeitung des Albumbildes.
 Sie können in verschiedenen Stellen \(z.B. [Albummanagement](album-management.md)\) die Möglichkeit zur "Bearbeitung Albumbild".
 
-Alle als Albumbild erstellte Bilder werden mit den in den Einstellungen [Optionenn für Bildverarbeitung](../preferences/options-for-image-processing) festgelegten Dimensionen erstellt.
+Alle als Albumbild erstellte Bilder werden mit den in den Einstellungen [Optionen für Bildverarbeitung](../preferences/options-for-image-processing) festgelegten Dimensionen erstellt.
 
-## Tabs of editor for album image
+## Tabs des Editors Albumbild
 
-### 1. Current
+### 1. Aktuell
 
-Tab current shows you current album image, if there is already one define.
+Registerblatt Aktuell zeigt das derzeit verwendete Albumbild, sofern schon eines definiert wurde.
 
 ![](../../.gitbook/assets/albumimage1.png)
 
-### 2. Use an image of album as album image
+### 2. Verwende im Album enthaltes Bild
 
 You can use on of the images, which are within your album. If you are editing a collection you will have all images of all subalbums available.  
 On left side you get a preview of all images. Click on one in order to show it in bigger preview on right side.
