@@ -31,7 +31,7 @@ Album permissions will be applied for each album seperately.
 
 ## 3. Collection permissions
 
-Collection permissions will be applied for each collection seperately.
+Collection permissions will be applied for each collection seperately. Permissions of a collection will be NOT APPLIED to subalbums. you have to define rights for each subalbum itself.
 
-* Permissions to view \(groups which should have permissions to view an album\) 
+* Permissions to view \(groups which should have permissions to view a collection\) 
 
