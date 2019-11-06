@@ -1,13 +1,13 @@
 # Einstellungen
 
-In the module preferences you can set various options for this module:
+In den Moduleinstellungen können Sie zahlreichen Optionen für dieses Modul festlegen:
 
 ![](../../.gitbook/assets/preferences1.png)
 
-## Options in detail
+## Optionen im Detail
 
-* [Options for image upload](options-for-image-upload.md)
-* [Options for image processing](options-for-image-processing.md)
-* [Options for display](options-for-display.md)
-* [Misc options](./)
+* [Optionen für Bilderupload](options-for-image-upload.md)
+* [Optionen für die Bildverarbeitung](options-for-image-processing.md)
+* [Optionen für die Anzeige](options-for-display.md)
+* [Sonstige Optionen](mics-options.md)
 
