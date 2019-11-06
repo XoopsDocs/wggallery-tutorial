@@ -4,7 +4,7 @@
 
 * Open form
 * Enter data
-* Submit only or submit and goto image upload \(see [Uploading images](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-Lspqw60el_nyD4U0eKE/english/the-user-side/uploading-images)\)
+* Submit only or submit and goto image upload \(see [Uploading images](uploading-images.md)\)
 
 ![](../../.gitbook/assets/albumcreate1.png)
 
