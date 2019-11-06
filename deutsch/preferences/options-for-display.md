@@ -10,53 +10,52 @@ Definieren Sie die Anzahl der Einträge in Listen im Userbereich.
 
 ## Ziel für Galerien
 
-Please select where a gallery should be opened
+Bitte definieren Sie wo eine Galerie geöffnet werden soll.
 
-## Target for single image
+## Ziel für einzelne Bilder
 
-Please select where a single image should be shown
+Bitte definieren Sie wo eine einzelne Bilder geöffnet werden sollen.
 
 ## Panel Type
 
-Panel Type is the bootstrap html div.
+Definieren Sie den Bootstarp Panel Type.
 
-## Show breadcrumb navigation
+## Breadcrumb Navigation anzeigen
 
-Breadcrumb navigation displays the current page's context within the site structure.
+Eine Brotkrumen-Navigation zeigt den aktuellen Seitenstand innerhalb der Websitestruktur
 
-## Show module name
+## Modulnamen anzeigen
 
-Show the module name in breadcrumb navigation
+Den Modulnamen in der Brotkrumen-Navigation anzeigen
 
-## Show copyright
+## Copyright anzeigen
 
-You can remove the copyright from the gallery, but a backlinks to www.wedega.com is expected, anywhere on your site
+Sie können das Copyright bei der Galerie entfernen, jedoch wird ersucht, an einer beliebigen Stelle einen Backlink auf www.wedega.com anzubringen
 
-## Show button text
+## Schaltflächentext anzeigen
 
-Show the button text. If NO then only images are shown
+Anzeigen des Schaltflächentextes. Bei NEIN wird nur das Schaltflächenbild angezeigt
 
-## Use categories
+## Kategorien verwenden
 
-Define whether you want to use categories for images and albums
+Definieren sie, ob Sie für die Bilder und Alben Kategorien verwenden wollen
 
-## Use tags
+## Tags verwenden
 
-Define whether you want to use tags for images and albums
+Definieren sie, ob Sie für die Bilder und Alben Tags verwenden wollen
 
-## Exif data to display
+## Exif-Daten für Anzeige
 
-Define which exif data should be shown \(if 'Save meta data \(exif\)' is activated\)
+Definieren Sie welche Exif-Daten angezeigt werden sollen (nur wenn 'Metadaten (exif) speichern' aktiviert ist)
+	
+## Bewertung zulassen
 
-## Allow rating
+Definieren Sie, ob eine Bewertung zulässig sein soll, und falls ja, welche
+	
+## Gruppen mit Bewertungsrecht
 
-Define whether rating should be possible and which kind of rating should be used
+Definieren Sie, welche Gruppen die Berechtigung zur Abgabe eine Bewertung besitzen
+	
+## Schaltfläche Import Beispieldaten anzeigen?
 
-## Groups with rating rights
-
-Define which groups should have the right to rate
-
-## Show Sample Button
-
-If yes, the "Add Sample Data" button will be visible to the Admin. It is Yes as a default for first installation.
-
+Falls Ja, dann wird die Schaltfläche "Importe Beispieldaten" im Adminbereich sichtbar. Diese Option ist nach der Installation standardmäßig aktiviert.
