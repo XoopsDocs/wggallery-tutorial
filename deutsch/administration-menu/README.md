@@ -1,18 +1,16 @@
-# Administrationmenü
+# 1. Administrationmenü
 
-## 1. Menu
+Im oberen Bereich befinden sich 7 Menüpunkte.
 
-There are seven \(7\) menu options on top. These can be seen in the graphic below above the Module’s Administration tabs. The menu options available are described in the table below.
-
-| Option | Action |
-| :--- | :--- |
-| Preferences | Here you can configure your preferences for the module |
-| Update | Click here if you’ve made some changes to the module, uploaded new files, etc. – this will recompile the module and update all entries in the database |
-| Blocks | When you click here, it will redirect you to the Blocks section of XOOPS, and select the blocks related to your module |
-| Templates | Here you can modify the standard module templates using the XOOPS Template manager |
-| Comments | This module does not support Comments so the link takes you the XOOPS Comment manager |
-| Uninstall | Links to the module uninstall option, the same as clicking the “red arrow” on the module administration page |
-| Go to module | If the module is visible on the user side, this will take you there |
+| Menüpunkt | Funktion |
+| --- | --- |
+| Einstellungen | Hier können sie die Moduleinstellungen vornehmen |
+| Update | Klicken sie hier, wenn sie einige Änderungen am Modul vorgenommen haben, Dateien hochgeladen haben usw. - dadurch wird das Modul neu kompiliert und alle Datenbankeinträge werden erneuert |
+| Blöcke | Wenn sie hier klicken, werden sie zur Blockverwaltung weitergeleitet, und es werden die Blöcke des aktuelle Modules vorgefiltert |
+| Templates | Hier können sie die Standardtemplates des aktuellen Moduls bearbeiten, verwendet wird dabei der XOOPS Template Manager |
+| Kommentare | Dieses Modul unterstützt keine Kommentare, sodass sie zum Xoops Kommentar-Manager weitergeleitet werden |
+| Deinstallieren | Sie werden zur Deinstallation des Moduls weitergeleitet |
+| Zum Modul | Wenn das Modul auf der Benutzerseite sichtbar ist, werden sie dorthin weitergeleitet |
 
 ## 2. Dashboard
 
@@ -20,19 +18,18 @@ On the dashboard you get a short overview about the functionalities and the cont
 
 ![0dashboard1.png](../../.gitbook/assets/0dashboard.png)
 
-## 3. Functionalities for admins:
+## 3. Funktionalitäten für Administratoren:
 
-* [Albums](albums.md)
-* [Album Types](albumtypes.md)
-* [Images](images.md)
-* [Gallery Types](gallerytypes.md)
-* [Album Types](albumtypes.md)
-* [Categories](categories.md)
-* [Watermarks](watermarks.md)
-* [Permissions](permissions.md)
-* [Maintenance](maintenance/)
+* [Alben](albums.md)
+* [Albumtypen](albumtypes.md)
+* [Bilder](images.md)
+* [Galerietypen](gallerytypes.md)
+* [Kategorien](categories.md)
+* [Wasserzeichen](watermarks.md)
+* [Berechtigungen](permissions.md)
+* [Wartung](maintenance/)
 * [Import]()
 * [Feedback]()
-* [About](about.md)
-* [Help](help.md)
+* [Über](about.md)
+* [Hilfe](help.md)
 
