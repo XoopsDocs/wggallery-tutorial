@@ -1,20 +1,22 @@
 # Bilder
 
-Each image must be uploaded to a specific album. It is not possible toupload an image and link it later to different albums.
+Jedes Bild muss in ein Album hochgeladen werden. Es ist nicht möglich, ein Bild hochzuladen und es später einem oder mehreren Alben zuzuordnen.
 
-For more details concerning image upload see [Uploading images](images.md).
+Für weitere Details betreffend Bilderupload siehe [Bilder hochladen](image-upload.md).
 
-## 1. List of images
+## 1. Liste der Bilder
 
-On the dashboard tab 'Images' you see a list of the images. In order to show the list you have to select an album first.
+Auf dem Registerblatt 'Bilder' sehen Sie eine Liste der derzeit existierenden Bilder. Für die Anzeige müssen Sie zuvor das gewünschte Album auswählen.
 
-![List of images](../../.gitbook/assets/adminimages1.png)
+Liste der Albumtypen
 
-After you have selected an album all images of this album will be listed.
+![Startansicht](../../.gitbook/assets/adminimages1.png)
 
-![List of images per album](../../.gitbook/assets/adminimages2.png)
+Nachdem Sie ein Album ausgewählt haben werden die dazugehörigen Bilder angezeigt.
 
-## 2. Add new image
+![Lise der Bilder pro Album](../../.gitbook/assets/adminimages2.png)
 
-If you want to add an image the wgGallery will switch to [Uploading images](images.md) on user side.
+## 2. Hinzufügen von Bildern
+
+Wenn Sie Bilder hinzufügen wollen dann wechselt wgGallery automatisch zur Seite [Bilder hochladen](image-upload.md) on user side.
 
