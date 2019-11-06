@@ -54,7 +54,7 @@ For more information concerning watermarks see [Watermarks](watermarks.md).
 
 ### 2.7. Categories
 
-You can define vaious categories, which you can link with images or albums and can classify your images. These categories can also used for targeted search.
+You can define various categories, which you can link with images or albums and can classify your images. These categories can also used for targeted search.
 
 For more information concerning categories see [Categories](categories.md).
 
