@@ -1,30 +1,30 @@
 # Albumtypen
 
-You can define various different album types. Depending on your selection and your settings the albums will be shown in different ways of displaying.
+Sie können verschiedene Albumtypen definieren. Abhängig von Ihren Einstellungen ändert sich das Erscheinungsbild auf der Benutzerseite.
 
-The album type will be used for displaying
+Albumtypen werden verwendet für die Anzeige:
 
-* on index page
-* in blocks
+* auf der Indexseite
+* in den Blöcken
 
-## 1. List of album types
+## 1. Liste der Albumtypen
 
-On the dashboard tab 'Album types' you see a list of the existing album types with the settings.
+Auf dem Registerblatt 'Albumtypen' sehen Sie eine Liste der derzeit existierenden Albumtypen.
 
-![List of album types](../../.gitbook/assets/albumtypes1.png)
+![Liste der Albumtypen](../../.gitbook/assets/albumtypes1.png)
 
-Following album types are implemented currently:
+Folgenden Albumtypen sind derzeit implementiert:
 
 * Default album style
 * Simple Album
 * Hover Effect Ideas
 * Bootstrap Cards
 
-For each album type you have different possibities to customize it according your wishes. You can e.g. decide:
+Für jeden Albumtyp gibt es unterschiedliche Einstellungsparameter, sodass Sie die Anzeige Ihren Wünschen entsprechend anpassen können. Sie können z.B. festlegen:
 
-* Number of columns per row
-* Showing image infos \(like name, title,...\)
-* and many more
+* Anzahl der Einträge proZeile
+* Anzeige von Infos \(wie Name, Titel,...\)
+* und einiges mehr
 
-For implementation of new album types exhausting knowlegde is required, therefore there is no add button.
+Da für eine Implementierung neuer Albumtypen erweiterte Kenntnisse erforderlich sind ist standardmäßig keine Schaltfläche "hinzufügen" vorhanden.
 
