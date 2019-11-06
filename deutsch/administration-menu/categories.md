@@ -1,28 +1,28 @@
 # Kategorien
 
-You can define various categories, which you can used to classify for images or your albums.
+Sie können verschiedene Kategorien definieren, die zur Klassifizierung von Alben und Bildern verwendet werden können.
 
-The categories can also be used for targeted search \(see [Search]()\).
+Die Kategorien können außerdem für eine gezielte Suche verwendet werden \(siehe [Search]()\).
 
-## 1. List of categories
+## 1. Liste der Kategorien
 
-On the dashboard tab 'Categories' you see a list of the existing categories with the settings.
+Auf dem Registerblatt 'Kategorien' sehen Sie eine Liste der bestehenden Alben und deren wichtigsten Einstellungen.
 
-![List of categories](../../.gitbook/assets/categories1.png)
+![Liste der Kategorien](../../.gitbook/assets/categories1.png)
 
-## 2. Add new/edit category
+## 2. Erstellen/Bearbeiten von Kategorien
 
-![Add new or edit category](../../.gitbook/assets/categories2.png)
+![Erstellen/Bearbeiten von Kategorien](../../.gitbook/assets/categories2.png)
 
-### 2.1. Category text
+### 2.1. Kategorietext
 
-This text will be shown on user side.
+Dieser Text wird auf der Benutzerseite angezeigt.
 
-### 2.2. Usage of category
+### 2.2. Verwendung der Kategorien
 
-You can decide for what the category will be used:
+Sie können entscheiden wofür ein Kategorie verwendet werden soll::
 
-* Use category for albums
-* Use category for images
-* Use category for search
+* Für Alben
+* Für Bilder
+* Für das Suchformular
 
