@@ -25,10 +25,10 @@ wgGallery supports multifile upload. The upload tool handle the upload itself, b
   * Adding watermark, if a watermark is linked with current album \(see [Albums](../administration-menu/albums.md) and [Watermarks](../administration-menu/watermarks.md)\)
   * saving different types \(large, medium, thumb\) of images in upload directory
   * reading information of image
-   * size
-   * dimension
-   * mime type
-   * EXIF \(only if option in preferences [Options for image processing](../preferences/options-for-image-processing.md)
+    * size
+    * dimension
+    * mime type
+    * EXIF \(only if option in preferences [Options for image processing](../preferences/options-for-image-processing.md)
 * After successful upload each line gets a green backgound and the upload tools confirm success  ![](../../.gitbook/assets/upload4.png) 
 
 ## Next steps
