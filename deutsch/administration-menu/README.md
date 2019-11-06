@@ -21,8 +21,8 @@ On the dashboard you get a short overview about the functionalities and the cont
 ## 3. Funktionalitäten für Administratoren:
 
 * [Alben](albums.md)
-* [Albumtypen](albumtypes.md)
 * [Bilder](images.md)
+* [Albumtypen](albumtypes.md)
 * [Galerietypen](gallerytypes.md)
 * [Kategorien](categories.md)
 * [Wasserzeichen](watermarks.md)
