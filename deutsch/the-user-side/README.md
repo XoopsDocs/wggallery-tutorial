@@ -1,13 +1,13 @@
 # Benutzerseite
 
-On user side you get an overview from all albums and collection, which are online currently.
+Auf der Indexseite im Benutzerbereich erhalten Sie eine Übersicht über alle Alben und Albensammlungen, die derzeit online sind.
 
 ![](../../.gitbook/assets/index1.png)
 
-Depending on the permissions of current user the user have additionally following possibilities:
+Abhängig von den Berechtigungen des aktuellen Users haben Sie folgende Möglichkeiten
 
-* album management \(see also [album managements](https://github.com/XoopsDocs/wggallery-tutorial/tree/970974041b371931e9142e26945f03af9877c0f0/english/album_management.md)\)
-* create albums \(see also [create albums](https://github.com/XoopsDocs/wggallery-tutorial/tree/970974041b371931e9142e26945f03af9877c0f0/english/album_create.md)\)
-* upload images \(see also [upload images](https://github.com/XoopsDocs/wggallery-tutorial/tree/970974041b371931e9142e26945f03af9877c0f0/english/upload_images.md)\)
-* search albumms or images \(see also [search](https://github.com/XoopsDocs/wggallery-tutorial/tree/970974041b371931e9142e26945f03af9877c0f0/english/search.md)\)
+* [Albummanagement](album_management.md)
+* [Album erstellen](album_create.md)
+* [Bilder hochladen](upload_images.md)
+* [Suche Alben oder Bilder](search.md)
 
