@@ -4,61 +4,60 @@ Sie können beiliebig viele Alben erstellen, welche wiederum mit anderen Alben i
 
 ## 1. Liste der Alben
 
-Auf dem Dashboard Tab 'Alben' sehen Sie eine Liste der bestehenden Alben und deren wichtigsten Einstellungen.
+Auf dem Registerblatt 'Alben' sehen Sie eine Liste der bestehenden Alben und deren wichtigsten Einstellungen.
 
-![List of albums](../../.gitbook/assets/admin_album.png)
+![Liste der Alben](../../.gitbook/assets/admin_album.png)
 
-## 2. Add new/edit album
+## 2. Erstellen/Bearbeiten von Alben
 
-![Creation of new album](../../.gitbook/assets/admin_album_create.png)
+![Erstellen eines Albums](../../.gitbook/assets/admin_album_create.png)
 
-### 2.1. Album name
+### 2.1. Albumname
 
-You can define an album name. This name will be shown on user side.
+Definieren Sie einn Albumnamen. Dieser wird auch auf der Benutzerseite angezeigt.
 
-### 2.2. Album description
+### 2.2. Albumbeschreibung
 
-You can provide additional information concerning an album, which will be shown on user side.
+Sie können zusätzliche Informationen zu Ihrem Album erfassen, welche auch auf der Benutzerseite angezeigt werden.
 
-### 2.3. Album image
+### 2.3. Albumbild
 
-You can use one image per album as album image. This image will be shown on user side. You can
+Sie können pro Album ein Albumbild verwenden. Dieses wird auch auf der Benutzerseite angezeigt. Sie können
 
-* use an image from the album or from subalbums of the collection
-* create an image grid of images of the album
-* crop an image of the album
-* upload a new image
+* ein Bild aus dem Album oder bei Albensammlungen ein Bild aus allen Unteralben verwenden
+* eine Bildercollage mit Bildern des Albums erstellen
+* Bilder des Albums bearbeiten (zuschneiden, drehen,....)
+* ein neues Bild hochladen
 
-For more information concerning album image see [Album image](../the-user-side/album-image.md).
+Für weitere Information betreffend Albumbild siehe auch [Album image](../the-user-side/album-image.md).
 
-### 2.4. State
+### 2.4. Status
 
-You can set an album online or offline. Only if an album is online then users will see it on user side. If a submitter doesn't have the permission to set an album online then the album will get the state "Waiting for approval". Such an album must be set online by an authorized user.
+Sie können Ihr Album Online oder Offline stellen. Nur wenn das Album den Status Online hat ist es auf der Benutzerseite für die anderen User sichtbar. Sofern der Einsender nicht die Berechtigung zum Onlinestellen besitzt, so erhält das Album automatisch den Stauts "Warten auf Freigabe". Die Freigabe hat dann durch einen autorisierten User zu erfolgen.
 
-### 2.5. Permissions
+### 2.5. Berechtigungen
 
-You can set following permissions for each group seperately:
+Sie können folgende Berechtigungen je Gruppe vergeben:
 
-* Permissions to view
-* Permissions to download full album
-* Permissions to view/download large images
-* Permissions to view/download medium images
+* Berechtigungen zum Anzeigen
+* Berechtigungen zum Download des gesamten Albums
+* Berechtigungen zur Anzeige/zum Download großer Bilder
+* Berechtigungen zur Anzeige/zum Download mittlerer Bilder
 
-For more information concerning permissions see [Permissions](permissions.md).
+Für weitere Information betreffend Berechtigungen siehe auch [Permissions](permissions.md).
 
-### 2.6. Watermarks
+### 2.6. Wasserzeichen
 
-You can define which watermark will be added to the uploaded images of this album.
+Sie können definieren, welches Wasserzeichen den in diesem Album hochgeladenen Bildern hinzugefügt wird.
 
-For more information concerning watermarks see [Watermarks](watermarks.md).
+Für weitere Information betreffend Wasserzeichen siehe auch [Watermarks](watermarks.md).
 
-### 2.7. Categories
+### 2.7. Kategorien
 
-You can define vaious categories, which you can link with images or albums and can classify your images. These categories can also used for targeted search.
+Sie können verschiedene Kategorien erstellen, die mit Bildern oder Alben verknüpft werden können und so eine Klassifizierung ermöglichen. Diese Kategorien werden auch für eine gezielte Suche verwendet.
 
-For more information concerning categories see [Categories](categories.md).
+Für weitere Information betreffend Kategorien siehe auch [Categories](categories.md).
 
 ### 2.8. Tags
 
-Each image or album can have various tags, which can also classify your images. These categories can also used for targeted search.
-
+Jedes Bild und jedes Album können zusätzlich mit Tags versehen werden, um eine Klassifizierung zu ermöglichen. Diese Tags werden auch für eine gezielte Suche verwendet.
