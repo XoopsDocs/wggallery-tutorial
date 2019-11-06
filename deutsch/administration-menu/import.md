@@ -1,15 +1,15 @@
 # Import
 
-On the dashboard tab 'Import' wgGallery provides import tools for following XOOPS modules:
+Auf dem Registerblatt 'Import' stehen derzeit Importroutinen für folgende Module zur Verfügung:
 
 * extGallery
 * TDMPicture
 
-![Overview existing import tools](../../.gitbook/assets/import1.png)
+![Üversicht Importroutinen](../../.gitbook/assets/import1.png)
 
-If you need an import procedure for another module please then contact module developer.
+Sofern Sie eine weitere Importroutine benötigen kontaktieren Sie den Modulentwickler.
 
-After clicking on "Read module data" you will get an overview of found data and you will have possibilities to set permissions for imported albums.
+Nach einem Klick auf "Moduldaten lesen" erhalten Sie eine Übersicht über die gefundenen Daten und Sie haben die Möglichkeit zum Setzen von Berechtigungen für die zu importierenden Alben.
 
-![Details for import](../../.gitbook/assets/import2.png)
+![Details fürImport](../../.gitbook/assets/import2.png)
 
