@@ -1,6 +1,6 @@
 # Feedback
 
-On the dashboard tab 'Feedback' you can send feedback directly to module developer:
+Auf dem Registerblatt 'Feedback' können Sie direkt mit dem Entwickler des Modules Kontakt aufnehmen:
 
-![Feedback form](../../.gitbook/assets/feedback1.png)
+![Feedback Formular](../../.gitbook/assets/feedback1.png)
 
