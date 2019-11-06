@@ -1,10 +1,10 @@
 # Alben
 
-You can define various albums, which you can combine with one or more others in a collection.
+Sie können beiliebig viele Alben erstellen, welche wiederum mit anderen Alben in einer Albensammlung kombiniert werden können.
 
-## 1. List of albums
+## 1. Liste der Alben
 
-On the dashboard tab 'albums' you see a list of the existing albums with the settings.
+Auf dem Dashboard Tab 'Alben' sehen Sie eine Liste der bestehenden Alben und deren wichtigsten Einstellungen.
 
 ![List of albums](../../.gitbook/assets/admin_album.png)
 

@@ -1,9 +1,9 @@
-# 1. Administrationmenü
+# Administrationmenü
 
 Im oberen Bereich befinden sich 7 Menüpunkte.
 
 | Menüpunkt | Funktion |
-| --- | --- |
+| :--- | :--- |
 | Einstellungen | Hier können sie die Moduleinstellungen vornehmen |
 | Update | Klicken sie hier, wenn sie einige Änderungen am Modul vorgenommen haben, Dateien hochgeladen haben usw. - dadurch wird das Modul neu kompiliert und alle Datenbankeinträge werden erneuert |
 | Blöcke | Wenn sie hier klicken, werden sie zur Blockverwaltung weitergeleitet, und es werden die Blöcke des aktuelle Modules vorgefiltert |
@@ -28,8 +28,8 @@ On the dashboard you get a short overview about the functionalities and the cont
 * [Wasserzeichen](watermarks.md)
 * [Berechtigungen](permissions.md)
 * [Wartung](maintenance/)
-* [Import]()
-* [Feedback]()
+* [Import](./)
+* [Feedback](./)
 * [Über](about.md)
 * [Hilfe](help.md)
 
