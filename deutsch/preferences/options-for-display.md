@@ -1,14 +1,14 @@
 # Optionen für Anzeige
 
-## List items admin pages
+## Admin Listenzeilen
 
-Define the number of list items in the admin area
+Definieren Sie die Anzahl der Einträge in Listen im Adminbereich.
 
-## List items user pages
+## User Listenzeilen
 
-Define the number of list items in the user area
+Definieren Sie die Anzahl der Einträge in Listen im Userbereich.
 
-## Target for gallery
+## Ziel für Galerien
 
 Please select where a gallery should be opened
 
