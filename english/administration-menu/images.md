@@ -2,7 +2,7 @@
 
 Each image must be uploaded to a specific album. It is not possible toupload an image and link it later to different albums.
 
-For more details concerning image upload see [Uploading images](images.md).
+For more details concerning image upload see [Uploading images](image-upload.md).
 
 ## 1. List of images
 
@@ -16,5 +16,5 @@ After you have selected an album all images of this album will be listed.
 
 ## 2. Add new image
 
-If you want to add an image the wgGallery will switch to [Uploading images](images.md) on user side.
+If you want to add an image the wgGallery will switch to [Uploading images](image-upload.md) on user side.
 
