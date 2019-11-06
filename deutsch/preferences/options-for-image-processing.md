@@ -1,38 +1,43 @@
 # Optionen für Bildverarbeitung
 
-## Maximum width large image
+## Maximale Breite für große Bilder
 
-Set the max width to which uploaded images should be scaled \(in pixel\) 0 means, that large images keeps the original size. If an image is smaller than maximum value then the image will be not enlarge, it will be save in original size.
+Definieren Sie die maximale Breite, auf die die hochgeladenen Bilder für Format "Große Bilder" automatisch verkleinert werden sollen (in pixel). 0 bedeutet, dass Bilder die Originalgröße behalten.
+Wenn ein Bild kleiner ist als die angegebenen Maximalwerte, so wird das Bild nicht vergrößert, sondern es wird in Originalgröße abgespeichert
+	
+## Maximale Höhe für große Bilder
 
-## Maximum height large image
+Definieren Sie die maximale Höhe, auf die die hochgeladenen Bilder für Format "Große Bilder" automatisch verkleinert werden sollen (in pixel). 0 bedeutet, dass Bilder die Originalgröße behalten.
+Wenn ein Bild kleiner ist als die angegebenen Maximalwerte, so wird das Bild nicht vergrößert, sondern es wird in Originalgröße abgespeichert
+	
+## Maximale Breite für mittlere Bilder
 
-Set the max height to which uploaded images should be scaled \(in pixel\) 0 means, that large images keeps the original size. If an image is smaller than maximum value then the image will be not enlarge, it will be save in original size.
+Definieren Sie die maximale Breite, auf die die hochgeladenen Bilder für Format "Mittlere Bilder" automatisch verkleinert werden sollen (in pixel). 0 bedeutet, dass Bilder die Originalgröße behalten.
+Sofern das Originalbild kleiner sein sollte, so wird dieses nicht vergrößert (eine Kopie des Originalbildes wird als mittleres Bild abgespeichert).
+	
+## Maximale Höhe für mittlere Bilder
 
-## Maximum width medium image
+Definieren Sie die maximale Höhe, auf die die hochgeladenen Bilder für Format "Mittlere Bilder" automatisch verkleinert werden sollen (in pixel). 0 bedeutet, dass Bilder die Originalgröße behalten.
+Sofern das Originalbild kleiner sein sollte, so wird dieses nicht vergrößert (eine Kopie des Originalbildes wird als mittleres Bild abgespeichert).
+	
+## Maximale Breite für Vorschaubilder
 
-Set the max width to which uploaded images will be scaled for medium image \(in pixel\) If large/original image is smaller then image will be not enlarge \(large image will be copied as medium\)
+Definieren Sie die maximale Breite, auf die die hochgeladenen Bilder für Format "Vorschaubilder" automatisch verkleinert werden sollen (in pixel).
+	
+## Maximale Höhe für Vorschaubilder
 
-## Maximum height medium image
+Definieren Sie die maximale Höhe, auf die die hochgeladenen Bilder für Format "Vorschaubilder" automatisch verkleinert werden sollen (in pixel)
+	
+## Maximale Breite für Albumbilder
 
-Set the max height to which uploaded images should be scaled for medium image \(in pixel\) If large/original image is smaller then image will be not enlarge \(large image will be copied as medium\)
+Definieren Sie die maximale Breite, auf die die hochgeladenen Bilder für Format "Albumbilder" automatisch verkleinert werden sollen (in pixel).
+Wenn Sie ein Bild aus dem Album verwenden so hat diese Option keine Auswirkung
+	
+## Maximale Höhe für Albumbilder
 
-## Maximum width thumbs
+Definieren Sie die maximale Höhe, auf die die hochgeladenen Bilder für Format "Albumbilder" automatisch verkleinert werden sollen (in pixel).
+Wenn Sie ein Bild aus dem Album verwenden so hat diese Option keine Auswirkung
+	
+## Metadaten (exif) speichern
 
-Set the max width to which uploaded images will be scaled for thumbs \(in pixel\)
-
-## Maximum height thumbs
-
-Set the max height to which uploaded images should be scaled for thumbs \(in pixel\)
-
-## Maximum width album images
-
-Set the max width to which uploaded images will be scaled for album images \(in pixel\) If you use an image of the album itself this option has no effect
-
-## Maximum height album images
-
-Set the max height to which uploaded images should be scaled for album images \(in pixel\) If you use an image of the album itself this option has no effect
-
-## Save meta data \(exif\)
-
-Define whether you want to save the meta data \(exif\) of the images
-
+Definieren sie, ob Sie die Metadaten der Bilder (exif-Daten) speichern wollen
