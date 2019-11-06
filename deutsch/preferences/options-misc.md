@@ -2,43 +2,43 @@
 
 ## Editor
 
-You can decide, which editor should be used for editing on admin sides. Xoops offers by default 3 editors:
+Bitte wählen Sie den Editor für die Eingabefelder im Adminbereich. Xoops bietet standardmäßig 3 Editoren an:
 
-### 1\) onlyText
+### 1) nur Text
 
-This editor can be used for saving pure text
+Dieser Editor dient zum Abspeichern von reinem Text
 
-### 2\) DHTML with xCode
+### 2) DHTML mit xCode
 
-An Editor with various Xoops-Tags
+Ein Editor mit verschiedenen Xoops-Tags
 
-### 3\) TinyMCE
+### 3) TinyMCE
 
-Extended texteditor with a lot of options for formatting, lists, and so on. The text will be save as HTML-Code in your database.
+Umfangreicher Texteditor mit zahlreichen Optionen für Formatierungen, Listen, usw. Der Text wird in der Datenbank als HTML-Code abgespeichert.
+Achtung: wenn Sie einen Text, der mit TinyMCE erstellt wurde, später mit z.B. DHTML-Editor anzeigen, so erscheinen natürlich alle Html-Tags. Verwenden Sie in diesem Fall wieder den TinyMCE oder entfernen Sie alle HTML-Tags.
 
-Attention: if you display text, which is created with TinyMCE, diplay later with e.g. the DHTML-Editor, you will see all the Html-Tags. Please use in this case again TinyMCE or remove all HTML-Tags.
+## Schlüsselworter
 
-## Keywords
+Bitte Schlüsselwörter angeben (getrennt durch ein Komma)
+	
+## jquery library hinzufügen
 
-You can add keywords, which are added to the meta tags. Seperate the keywords by comma.
+Wenn Sie bereits jquery implentiert haben (z.B. durch Ihr Theme), dann bitte "Nein" wählen
 
-## Add jquery library
+## Unterstützt von
 
-If you use already jquery \(e.g. in your theme\) then set to NO
+Erlaubt den Url zur Supportseite oder Community
+	
+## Kommentarrichtlinien
+Definieren Sie wie die Standardkommentarrichtlinien angewendet werden sollen.
+	
+## Gästen erlauben Kommentare zu schreiben?
 
-## Maintained By
+Definieren Sie, ob Gäste Kommentare erstellen dürfen. Beachten Sie, dass die Gefahr von Spamkommentaren sehr hoch ist, wenn sich jemand nicht einloggen muss.
 
-Allow url of support site or community
+## Benachrichtigung aktivieren
 
-## Comment Rules
-
-## Allow anonymous comments
-
-## Enable Notification
-
-This module allows users to be notified when certain events occur. Select if users should be presented with notification options in a Block \(Block-style\), within the module \(Inline-style\), or both. For block-style notification, the Notification Options block must be enabled for this module.
-
-## Enable Specific Events
-
-Select which notification events to which your users may subscribe.
-
+Dieses Modul erlaubt Benutzern selbst zu entscheiden, ob Sie die Benachrichtigung in einem Block lesen möchten (Block-style), im Modul (Inline-style), oder beides. Für die Block-style Benachrichtigung muß die Option Block-Benachrichtigungsmethode aktiviert sein.
+	
+## Spezielle Ereignisse aktivieren
+Wählen Sie welche Art Benachrichtigungen die Mitglieder auswählen können.
