@@ -9,5 +9,5 @@ In the module preferences you can set various options for this module:
 * [Options for image upload](options-for-image-upload.md)
 * [Options for image processing](options-for-image-processing.md)
 * [Options for display](options-for-display.md)
-* [Misc options](./)
+* [Misc options](misc-options.md)
 
