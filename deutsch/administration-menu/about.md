@@ -1,6 +1,6 @@
 # Über
 
-This tab provides info about current version of wgGallery and info about the last changes.
+Auf dem Registerblatt "über" erhalten sie Infos über die aktuelle Version sowie die Ändernungen in den letzten Versionen.
 
 ![](../../.gitbook/assets/about.png)
 
