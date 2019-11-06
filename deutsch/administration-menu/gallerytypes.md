@@ -1,14 +1,16 @@
 # Galerietypen
 
-You can define various different gallery types. Depending on your selection and your settings the images will be shown in one of the slideshows \(gallery types\).
+You can define various different gallery types. Depending on your selection and your settings the images will be shown in one of the slideshows .
+Sie können verschiedene Galerietypen definieren. Abhängig von Ihren Einstellungen werden die Bilder eines Albums in der gewählten Slideshow \(Galerietyp\) angezeigt.
 
-## 1. List of gallery types
 
-On the dashboard tab 'Gallery Types' you see a list of the existing gallery types with the settings.
+## 1. Liste der Galerietypen
 
-![List of gallery types](../../.gitbook/assets/gallerytypes1.png)
+Auf dem Registerblatt 'Galerietypen' sehen Sie eine Liste der bestehenden Alben und deren wichtigsten Einstellungen.
 
-Following gallery types are implemented currently:
+![Liste der Galerietypen](../../.gitbook/assets/gallerytypes1.png)
+
+Folgende Galerietypen sind derzeit implentiert:
 
 * Lightbox2
 * Justified Gallery with Colorbox
@@ -16,13 +18,13 @@ Following gallery types are implemented currently:
 * Jssor
 * LC Lightbox LITE
 
-For each gallery type you have different possibities to customize it according your wishes. You can e.g. decide:
+Für jeden Galeriety gibt es unterschiedliche Einstellungsparameter, sodass Sie die Anzeige Ihren Wünschen entsprechend anpassen können. Sie können z.B. festlegen:
 
-* Source of images
-* showing image infos \(like name, title,...\)
+* Bilderquelle
+* Anzeige von Infos \(wie Name, Titel,...\)
 * Autoplay
-* Slideshow speed
-* and many more
+* Slideshow-Geschwindigkeit
+* und vieles mehr
 
-For implementation of new galleries exhausting knowlegde is required, therefore there is no add button.
+Da für eine Implementierung neuer Galerietypen umfassende Kenntnisse über die Arbeitsweise von wgGallery erforderlich sind ist standardmäßig keine Schaltfläche "hinzufügen" vorhanden.
 
