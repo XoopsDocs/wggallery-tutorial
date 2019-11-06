@@ -1,23 +1,23 @@
 # Optionen für Bilderupload
 
-## Max size
+## Maximale Dateigröße
 
-Set the max file size for uploads files
+Bitte die für den Upload von Dateien maximal zulässige Dateigröße definieren
+	
+## Zulässige Dateierweiterungen
 
-## Allowed file extension
+Bitte die für den Upload von Dateien zulässigen Dateierweiterungen definieren
+	
+## Maximale Breite Upload
 
-Set the file extension which are allowed for upload
+Bitte die für den Upload von Dateien maximal zulässige Bildbreite definieren (in pixel)
+	
+## Maximale Höhe Upload
 
-## Maximum width upload
+Bitte die für den Upload von Dateien maximal zulässige Bildhöhe definieren (in pixel)
+	
+## Originalbild speichern
 
-Set the max width which is allowed for uploading images \(in pixel\)
-
-## Maximum height upload
-
-Set the max height which is allowed for uploading images \(in pixel\)
-
-## Store original image
-
-Define, whether you want to store the original image. Advantage: all images can be reproduced later including new water marks  
-Disadvantage: the used server space will increase corresponding the allowed upload file size
-
+Definieren Sie, ob sie das Originalbild zusätzlich speichern wollen.
+Vorteil: alle Bilder sind später in neuen Größen und mit neuen Wasserzeichen reproduzierbar
+Nachteil: der Speicherbedarf wird entsprechend der zulässigen Größe für Uploads ansteigen
