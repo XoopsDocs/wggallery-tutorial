@@ -32,7 +32,16 @@ Allow url of support site or community
 
 ## Comment Rules
 
+The standard comment rules of XOOPS are available
+
+* Disable Comments
+* Comments are always approved
+* Comments by Registered users are always approvedA
+* All comments need to be approved by Admin
+
 ## Allow anonymous comments
+
+Decide if you want allow anonymous users to post comments. Very often, this results in a lot of spam messages
 
 ## Enable Notification
 
@@ -40,5 +49,19 @@ This module allows users to be notified when certain events occur. Select if use
 
 ## Enable Specific Events
 
-Select which notification events to which your users may subscribe.
+Select which notification events to which your users may subscribe. Following events are available:
+
+* Global notification 
+  * Send notification when a new album was created 
+  * Send notification when any album was modified 
+  * Send notification when an album is waiting for approval 
+  * Send notification when any album was deleted 
+  * Send notification when new image was uploaded 
+  * Send notification when an image was deleted from any album 
+* Albums notification 
+  * Send notification when this album was modified 
+  * Send notification when this album was deleted
+  * Send notification when a new image was uploaded to this album
+  * Send notification when an image is waiting for approval
+  * Send notification when a new image was deleted from this album
 
