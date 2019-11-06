@@ -26,5 +26,5 @@ Für jeden Albumtyp gibt es unterschiedliche Einstellungsparameter, sodass Sie d
 * Anzeige von Infos \(wie Name, Titel,...\)
 * und einiges mehr
 
-Da für eine Implementierung neuer Albumtypen erweiterte Kenntnisse erforderlich sind ist standardmäßig keine Schaltfläche "hinzufügen" vorhanden.
+Da für eine Implementierung neuer Albumtypen umfassende Kenntnisse über die Arbeitsweise von wgGallery erforderlich sind ist standardmäßig keine Schaltfläche "hinzufügen" vorhanden.
 
