@@ -1,37 +1,39 @@
 # Berechtigungen
 
-On the dashboard tab 'Permissions' you can manage the permissions for wgGallery.
+Auf dem Registerblatt 'Berechtigungen' können Sie die Berechtigungen für wgGallery verwalten.
 
-## 1. Global permissions
+## 1. Globale Berechtigungen
 
-Global permissions will be applied in general.
+Globale Berechtigungen werden allgemein angewendet.
 
-* Permissions global to submit/edit all albums:  Groups which should have permissions
-  * to create albums 
-  * edit all albums 
-  * approve all albums 
-  * upload images to all albums 
-  * approve all images
-* Permissions global to submit/edit own albums without approvement: Groups which should have permissions
-  * to create albums 
-  * edit own albums 
-  * upload images to own albums
-* Permissions global to submit/edit own albums only with approvement: Groups which should have permissions
-  * to create albums 
-  * edit own albums 
-  * upload images to own albums
 
-## 2. Album permissions
+* Globale Berechtigung zum Bearbeiten aller Alben:
+  * Erstellen von Alben
+  * Bearbeiten aller Alben
+  * Freigabe aller Alben
+  * Hochladen von Bildern in alle Alben
+  * Freigabe aller Bilder
+* Globale Berechtigung zum Bearbeiten eigener Alben ohne Freigabe:
+  * Erstellen von Alben
+  * Bearbeiten der eigenen Alben
+  * Hochladen von Bildern in eigene Alben
+* Globale Berechtigung zum Bearbeiten eigener Alben, jedoch ist eine Freigabe erforderlich:
+  * Erstellen von Alben (Freigabe erforderlich)
+  * Bearbeiten der eigenen Alben (Freigabe erforderlich)
+  * Hochladen von Bildern in eigene Alben (Freigabe erforderlich)
 
-Album permissions will be applied for each album seperately.
+## 2. Albumberechtigungen
 
-* Permissions to view \(groups which should have permissions to view an album\) 
-* Permissions to download full album \(groups which should have permissions to download the full album at once\) Permissions to view/download large images \(groups which should have permissions to view and download large images\) 
-* Permissions to view/download medium images \(groups which should have permissions to view and download medium images\)
+Albumberechtigungen werden auf ein Album bezogen angewendet.
 
-## 3. Collection permissions
+* Berechtigung zum Ansehen \(Gruppen mit der Berechtigung zum Ansehen der Alben\)
+* Berechtigung zum Download des gesamten Albums \(Gruppen mit der Berechtigung zum Download der Alben als Ganzes\)
+* Berechtigung zum Anzeigen/Downloaden großer Bildern \(Gruppen mit der Berechtigung zum Anzeigen und Downloaden der großen Bilder\)
+* Berechtigung zum Anzeigen/Downloaden mittlerer Bildern \(Gruppen mit der Berechtigung zum Anzeigen und Downloaden der mittleren Bilder\)
 
-Collection permissions will be applied for each collection seperately.
+## 3. Berechtigungen Albumsammlungen
 
-* Permissions to view \(groups which should have permissions to view an album\) 
+Berechtigungen Albumsammlungen werden für die jeweilige Albumsammlungen angewendet. Die Berechtigungen werden NICHT an die Unteralben vererbt, sondern müssen dort separat gesetzt werden.
+
+* Berechtigung zum Ansehen \(Gruppen mit der Berechtigung zum Ansehen der Albumsammlung\)
 
