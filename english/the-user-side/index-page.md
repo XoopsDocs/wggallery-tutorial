@@ -8,9 +8,9 @@ On the main page of wgGallery you get an overview about all albums and collectio
 
 Depending on your permissions \(see [Permissions](../administration-menu/permissions.md) [Permissions](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/administration-menu/permissions)\) you will see addtional buttons like
 
-* "Show album" \(see [Displaying albums](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/displaying-albums)\)
-* "Show images index \(see[ Image index](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/image-index)\)
-* "Edit" \(see [Create new album](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/create-new-album)\)
+* "Show album" \(see [Displaying albums](displaying-albums.md)\)
+* "Show images index \(see[ Image index](image-index.md)\)
+* "Edit" \(see [Create new album](create-new-album.md)\)
 * Submitter \(on image "webmaster"\), which will show a list of albums of this submitter
 * "Delete"
 * "Download album"
