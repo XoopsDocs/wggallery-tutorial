@@ -8,8 +8,7 @@ Ein Album enthält ein oder mehrere Bilder. Sie können die Berechtigungen für 
 
 ### Albensammlungen
 
-Albensammlungen sind wie Container oder Ordner für eine oder mehrere Alben. Die für eine Albensammlungen gesetzten Berechtigungen gelten NICHT für die darin enthaltenen Alben.
-Eine Albensammlungen sollte keine Bilder enthalten, da sie nirgends angezeigt werden.  
+Albensammlungen sind wie Container oder Ordner für eine oder mehrere Alben. Die für eine Albensammlungen gesetzten Berechtigungen gelten NICHT für die darin enthaltenen Alben. Eine Albensammlungen sollte keine Bilder enthalten, da sie nirgends angezeigt werden.  
 Sie erkennen eine Albensammlungen an der Anzahl der enthaltenen Alben:
 
 ![](../../.gitbook/assets/albummanagement3.png)
@@ -32,12 +31,12 @@ Sie können einen beliebig großen Verzeichnisbaum erstellen.
 
 ## 3. Zusätzliche Schaltflächen
 
-Abhängig von Ihren [Berechtigungen](./administration-menu/permissions.md) sehen Sie zusätzliche Schaltflächen wie z.B.
+Abhängig von Ihren [Berechtigungen](https://github.com/XoopsDocs/wggallery-tutorial/tree/6291572512eb57610b87a3e02fdf4bb8dfd27b39/deutsch/the-user-side/administration-menu/permissions.md) sehen Sie zusätzliche Schaltflächen wie z.B.
 
 * [Album anzeigen](displaying-albums.md)
 * [Bilderindex anzeigen](image-index.md)
 * [Bildermanagement](image-management.md)
-* [Bilder hochladen](uploading-images.md)
+* [Bilder hochladen](https://github.com/XoopsDocs/wggallery-tutorial/tree/6291572512eb57610b87a3e02fdf4bb8dfd27b39/deutsch/the-user-side/uploading-images.md)
 * [Neues Album erstellen](create-new-album.md)
 * [Albumbild bearbeiten](album-image.md)
 * "Delete"
