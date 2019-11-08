@@ -1,6 +1,6 @@
 # Albumbild
 
-wgGallery beinhaltet ein umfassendes Tool für die Auswahl/Bearbeitung des Albumbildes. Sie können in verschiedenen Stellen \(z.B. [Albummanagement](album-management.md)\) die Möglichkeit zur "Bearbeitung Albumbild".
+wgGallery beinhaltet ein umfassendes Tool für die Auswahl/Bearbeitung des Albumbildes. Sie können in verschiedenen Stellen \(z.B. [Albummanagement]()\) die Möglichkeit zur "Bearbeitung Albumbild".
 
 Alle als Albumbild erstellte Bilder werden mit den in den Einstellungen [Optionen für Bildverarbeitung](https://github.com/XoopsDocs/wggallery-tutorial/tree/bf21e41c954096bc925dc762b0fce32cbcf8d0ff/deutsch/preferences/options-for-image-processing/README.md) festgelegten Dimensionen erstellt.
 
@@ -14,8 +14,7 @@ Registerblatt Aktuell zeigt das derzeit verwendete Albumbild, sofern schon eines
 
 ### 2. Verwende im Album enthaltes Bild
 
-Sie können ein Bild aus dem Album verwenden. Wenn Sie eine Albensammlung bearbeiten, dann haben Sie alle Bilder aller Unterablen zur Verfügung.
-Auf der linken Seite sehen Sie eine Bildervorschau. Nach dem Anklicken erschein auf der rechten Seite eine große Vorschau.
+Sie können ein Bild aus dem Album verwenden. Wenn Sie eine Albensammlung bearbeiten, dann haben Sie alle Bilder aller Unterablen zur Verfügung. Auf der linken Seite sehen Sie eine Bildervorschau. Nach dem Anklicken erschein auf der rechten Seite eine große Vorschau.
 
 ![](../../.gitbook/assets/albumimage2.png)
 
@@ -23,8 +22,7 @@ Für die endgültige Übernahme bitte auf "Anwenden" klicken.
 
 ### 3. Bildercollage erstellen
 
-Optional können Sie auch eine Bildercollage mit 4 oder 6 Bildern erstellen, basierend auf den Bildern Ihres Albums. 
-Schritt eins: entscheiden Sie, ob Sie 4 oder 6 Bilder verwenden wollen
+Optional können Sie auch eine Bildercollage mit 4 oder 6 Bildern erstellen, basierend auf den Bildern Ihres Albums. Schritt eins: entscheiden Sie, ob Sie 4 oder 6 Bilder verwenden wollen
 
 ![](../../.gitbook/assets/albumimage31.png)
 
@@ -59,8 +57,7 @@ Wenn ein Bild gewählt wurde, dann kann dieses Bild zusätzlich bearbeitet werde
 
 ![](../../.gitbook/assets/albumimage34.png)
 
-Sie können zuschneiden, zoomen, drehen und so weiter.
-Wenn der ausgewählte Bereich den Vorstellungen entspricht dann bitte auf "Bild erstellen" klicken.
+Sie können zuschneiden, zoomen, drehen und so weiter. Wenn der ausgewählte Bereich den Vorstellungen entspricht dann bitte auf "Bild erstellen" klicken.
 
 Für die endgültige Übernahme bitte auf "Anwenden" klicken.
 
