@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/logomodule.png)
 
-### Version: 1.14 RC1
+### Version: 1.14 RC1 Test
 
 ### for XOOPS 2.5.10 +
 
