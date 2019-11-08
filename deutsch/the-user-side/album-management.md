@@ -32,7 +32,7 @@ Sie können einen beliebig großen Verzeichnisbaum erstellen.
 
 ## 3. Zusätzliche Schaltflächen
 
-Abhängig von Ihren Berechtigungen \(siehe [Berechtigungen](./administration-menu/permissions.md)\) sehen Sie zusätzliche Schaltflächen wie z.B.
+Abhängig von Ihren [Berechtigungen](./administration-menu/permissions.md) sehen Sie zusätzliche Schaltflächen wie z.B.
 
 * [Album anzeigen](displaying-albums.md)\)
 * [Bilderindex anzeigen](image-index.md)\)
