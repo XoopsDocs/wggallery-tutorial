@@ -1,14 +1,6 @@
-# Album management
+# Albenmanagement
 
-## 1. Overview
-
-On the album management page you get an overview about all albums and collections
-
-![](../../.gitbook/assets/albummanagement1.png)
-
-On the right side you will see the area for sorting albums/collections.
-
-## 2. Differences between albums and collections
+## 1. Differences between albums and collections
 
 ### Album
 
@@ -20,6 +12,14 @@ Collections are like a container or folder for one or more albums. Permissions s
 A collection should not have images, as they will be nowhere displayed.  
 you can recognize a collection on the displayed number of albums in it:  
 ![](../../.gitbook/assets/albummanagement3.png)
+
+## 2. Overview
+
+On the album management page you get an overview about all albums and collections
+
+![](../../.gitbook/assets/albummanagement1.png)
+
+On the right side you will see the area for sorting albums/collections.
 
 ## 3. Sorting albums
 
