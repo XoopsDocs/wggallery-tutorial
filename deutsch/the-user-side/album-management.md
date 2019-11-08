@@ -1,43 +1,45 @@
 # Albenmanagement
 
-## 1. Differences between albums and collections
+## 1. Unterschied zwischen Alben und Albensammlungen
 
 ### Album
 
-An album contains one or more images. You can set the permissions for each album in a different way.
+Ein Album enthält ein oder mehrere Bilder. Sie können die Berechtigungen für jedes Album unterschiedlich vergeben.
 
-### Collections
+### Albensammlungen
 
-Collections are like a container or folder for one or more albums. Permissions set for a collection are not valid for the contained albums.  
-A collection should not have images, as they will be nowhere displayed.  
-you can recognize a collection on the displayed number of albums in it:  
+Albensammlungen sind wie Container oder Ordner für eine oder mehrere Alben. Die für eine Albensammlungen gesetzten Berechtigungen gelten NICHT für die darin enthaltenen Alben.
+Eine Albensammlungen sollte keine Bilder enthalten, da sie nirgends angezeigt werden.  
+Sie erkennen eine Albensammlungen an der Anzahl der enthaltenen Alben:
+
 ![](../../.gitbook/assets/albummanagement3.png)
 
-## 2. Overview
+## 2. Übersicht
 
-On the album management page you get an overview about all albums and collections
+Auf der Seite Albenmanagement erhalten Sie eine Übersicht über alle Alben und Albensammlungen
 
 ![](../../.gitbook/assets/albummanagement1.png)
 
-On the right side you will see the area for sorting albums/collections.
+Auf der rechten Seite erscheint der Bereich für die Sortierung der Alben.
 
-## 3. Sorting albums
+## 3. Sortierung der Alben
 
-![](../../.gitbook/assets/albummanagement2.png)  
-You can easily sort them by drag&drop.  
-With a click on "+" you can expand a collection, with "-" reduce it.  
-You can create a nested tree up to as many levels you want.
+![](../../.gitbook/assets/albummanagement2.png)
 
-## 3. Additional buttons
+Sie können die ALben einfach mit Drag&Drop verschieben und sortieren.  
+Bei einem Klick auf "+" wird die jeweilige Albensammlung erweitert, bei "-" reduziert.  
+Sie können einen beliebig großen Verzeichnisbaum erstellen.
 
-Depending on your permissions \(see [Permissions](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/administration-menu/permissions)\) you will see addtional buttons like
+## 3. Zusätzliche Schaltflächen
 
-* "Show album" \(see [Displaying albums](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/displaying-albums)\)
-* "Show images index \(see[ Image index](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/image-index)\)
-* "Image management \(see [Image management](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/image-management)\)
-* "Upload images \(see [Uploading images](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/uploading-images)\)
-* "Edit album" \(see [Create new album](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/create-new-album)\)
-* "Edit album image" \(see [Album image](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/album-image)\)
+Abhängig von Ihren Berechtigungen \(siehe [Berechtigungen](./administration-menu/permissions.md)\) sehen Sie zusätzliche Schaltflächen wie z.B.
+
+* [Album anzeigen](displaying-albums.md)\)
+* [Bilderindex anzeigen](image-index.md)\)
+* [Bildermanagement](image-management.md)\)
+* [Bilder hochladen](uploading-images.md)\)
+* [Neues Album erstellen](create-new-album.md)\)
+* [Albumbild bearbeiten](album-image.md)\)
 * "Delete"
 * "Download album"
 
