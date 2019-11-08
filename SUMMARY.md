@@ -62,7 +62,7 @@
   * [Benutzerseite](deutsch/the-user-side/README.md)
     * [Indexseite](deutsch/the-user-side/index-page.md)
     * [Alben anzeigen](deutsch/the-user-side/displaying-albums.md)
-    * [Album management](deutsch/the-user-side/album-management.md)
+    * [Albenmanagement](deutsch/the-user-side/album-management.md)
     * [Bilderindex](deutsch/the-user-side/image-index.md)
     * [Bildermanagement](deutsch/the-user-side/image-management.md)
     * [Neues Album erstellen](deutsch/the-user-side/create-new-album.md)
