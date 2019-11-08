@@ -6,7 +6,6 @@ Auf dem Registerblatt 'Berechtigungen' können Sie die Berechtigungen für wgGal
 
 Globale Berechtigungen werden allgemein angewendet.
 
-
 * Globale Berechtigung zum Bearbeiten aller Alben:
   * Erstellen von Alben
   * Bearbeiten aller Alben
@@ -18,9 +17,9 @@ Globale Berechtigungen werden allgemein angewendet.
   * Bearbeiten der eigenen Alben
   * Hochladen von Bildern in eigene Alben
 * Globale Berechtigung zum Bearbeiten eigener Alben, jedoch ist eine Freigabe erforderlich:
-  * Erstellen von Alben (Freigabe erforderlich)
-  * Bearbeiten der eigenen Alben (Freigabe erforderlich)
-  * Hochladen von Bildern in eigene Alben (Freigabe erforderlich)
+  * Erstellen von Alben \(Freigabe erforderlich\)
+  * Bearbeiten der eigenen Alben \(Freigabe erforderlich\)
+  * Hochladen von Bildern in eigene Alben \(Freigabe erforderlich\)
 
 ## 2. Albumberechtigungen
 

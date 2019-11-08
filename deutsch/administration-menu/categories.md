@@ -2,7 +2,7 @@
 
 Sie können verschiedene Kategorien definieren, die zur Klassifizierung von Alben und Bildern verwendet werden können.
 
-Die Kategorien können außerdem für eine gezielte Suche verwendet werden \(siehe [Search]()\).
+Die Kategorien können außerdem für eine gezielte Suche verwendet werden \(siehe [Search](categories.md)\).
 
 ## 1. Liste der Kategorien
 

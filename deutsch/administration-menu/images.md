@@ -2,7 +2,7 @@
 
 Jedes Bild muss in ein Album hochgeladen werden. Es ist nicht möglich, ein Bild hochzuladen und es später einem oder mehreren Alben zuzuordnen.
 
-Für weitere Details betreffend Bilderupload siehe [Bilder hochladen](image-upload.md).
+Für weitere Details betreffend Bilderupload siehe [Bilder hochladen](https://github.com/XoopsDocs/wggallery-tutorial/tree/70c9fb3e6c16e5aff7ae629262b1ac51518468c9/deutsch/administration-menu/image-upload.md).
 
 ## 1. Liste der Bilder
 
@@ -18,5 +18,5 @@ Nachdem Sie ein Album ausgewählt haben werden die dazugehörigen Bilder angezei
 
 ## 2. Hinzufügen von Bildern
 
-Wenn Sie Bilder hinzufügen wollen dann wechselt wgGallery automatisch zur Seite [Bilder hochladen](image-upload.md) on user side.
+Wenn Sie Bilder hinzufügen wollen dann wechselt wgGallery automatisch zur Seite [Bilder hochladen](https://github.com/XoopsDocs/wggallery-tutorial/tree/70c9fb3e6c16e5aff7ae629262b1ac51518468c9/deutsch/administration-menu/image-upload.md) on user side.
 

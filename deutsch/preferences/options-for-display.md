@@ -46,16 +46,17 @@ Definieren sie, ob Sie für die Bilder und Alben Tags verwenden wollen
 
 ## Exif-Daten für Anzeige
 
-Definieren Sie welche Exif-Daten angezeigt werden sollen (nur wenn 'Metadaten (exif) speichern' aktiviert ist)
-	
+Definieren Sie welche Exif-Daten angezeigt werden sollen \(nur wenn 'Metadaten \(exif\) speichern' aktiviert ist\)
+
 ## Bewertung zulassen
 
 Definieren Sie, ob eine Bewertung zulässig sein soll, und falls ja, welche
-	
+
 ## Gruppen mit Bewertungsrecht
 
 Definieren Sie, welche Gruppen die Berechtigung zur Abgabe eine Bewertung besitzen
-	
+
 ## Schaltfläche Import Beispieldaten anzeigen?
 
 Falls Ja, dann wird die Schaltfläche "Importe Beispieldaten" im Adminbereich sichtbar. Diese Option ist nach der Installation standardmäßig aktiviert.
+

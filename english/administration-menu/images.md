@@ -2,7 +2,7 @@
 
 Each image must be uploaded to a specific album. It is not possible toupload an image and link it later to different albums.
 
-For more details concerning image upload see [Uploading images](image-upload.md).
+For more details concerning image upload see [Uploading images](https://github.com/XoopsDocs/wggallery-tutorial/tree/e89fa632cae1d9cb0e74db2949c67b1d9d8e44ff/english/administration-menu/image-upload.md).
 
 ## 1. List of images
 
@@ -16,5 +16,5 @@ After you have selected an album all images of this album will be listed.
 
 ## 2. Add new image
 
-If you want to add an image the wgGallery will switch to [Uploading images](image-upload.md) on user side.
+If you want to add an image the wgGallery will switch to [Uploading images](https://github.com/XoopsDocs/wggallery-tutorial/tree/e89fa632cae1d9cb0e74db2949c67b1d9d8e44ff/english/administration-menu/image-upload.md) on user side.
 

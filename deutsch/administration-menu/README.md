@@ -1,5 +1,7 @@
 # Administrationmenü
 
+## 1. Menüleiste
+
 Im oberen Bereich befinden sich 7 Menüpunkte.
 
 | Menüpunkt | Funktion |

@@ -1,9 +1,8 @@
 # Albumbild
 
-wgGallery beinhaltet ein umfassendes Tool für die Auswahl/Bearbeitung des Albumbildes.
-Sie können in verschiedenen Stellen \(z.B. [Albummanagement](album-management.md)\) die Möglichkeit zur "Bearbeitung Albumbild".
+wgGallery beinhaltet ein umfassendes Tool für die Auswahl/Bearbeitung des Albumbildes. Sie können in verschiedenen Stellen \(z.B. [Albummanagement](album-management.md)\) die Möglichkeit zur "Bearbeitung Albumbild".
 
-Alle als Albumbild erstellte Bilder werden mit den in den Einstellungen [Optionen für Bildverarbeitung](../preferences/options-for-image-processing) festgelegten Dimensionen erstellt.
+Alle als Albumbild erstellte Bilder werden mit den in den Einstellungen [Optionen für Bildverarbeitung](https://github.com/XoopsDocs/wggallery-tutorial/tree/bf21e41c954096bc925dc762b0fce32cbcf8d0ff/deutsch/preferences/options-for-image-processing/README.md) festgelegten Dimensionen erstellt.
 
 ## Tabs des Editors Albumbild
 

@@ -26,7 +26,7 @@ Sie können pro Album ein Albumbild verwenden. Dieses wird auch auf der Benutzer
 
 * ein Bild aus dem Album oder bei Albensammlungen ein Bild aus allen Unteralben verwenden
 * eine Bildercollage mit Bildern des Albums erstellen
-* Bilder des Albums bearbeiten (zuschneiden, drehen,....)
+* Bilder des Albums bearbeiten \(zuschneiden, drehen,....\)
 * ein neues Bild hochladen
 
 Für weitere Information betreffend Albumbild siehe auch [Album image](../the-user-side/album-image.md).
@@ -61,3 +61,4 @@ Für weitere Information betreffend Kategorien siehe auch [Categories](categorie
 ### 2.8. Tags
 
 Jedes Bild und jedes Album können zusätzlich mit Tags versehen werden, um eine Klassifizierung zu ermöglichen. Diese Tags werden auch für eine gezielte Suche verwendet.
+

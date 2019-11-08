@@ -6,8 +6,8 @@ On user side you get an overview from all albums and collection, which are onlin
 
 Depending on the permissions of current user the user have additionally following possibilities:
 
-* [Album managements](album_management.md)
-* [Create albums](album_create.md)
-* [Upload images](upload_images.md)
+* [Album managements](https://github.com/XoopsDocs/wggallery-tutorial/tree/45f25e68ac41e9e8be88092517890d7f56d65a11/english/the-user-side/album_management.md)
+* [Create albums](https://github.com/XoopsDocs/wggallery-tutorial/tree/45f25e68ac41e9e8be88092517890d7f56d65a11/english/the-user-side/album_create.md)
+* [Upload images](https://github.com/XoopsDocs/wggallery-tutorial/tree/45f25e68ac41e9e8be88092517890d7f56d65a11/english/the-user-side/upload_images.md)
 * [Search albums or images](search.md)
 

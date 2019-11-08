@@ -1,7 +1,6 @@
 # Wasserzeichen
 
-Sie können veschiedene Wasserzeichen definieren, die dann bei hochgeladenen Bildern hinzugefügt werden.
-Sie können auch entscheiden, bei welchen Bildarten ein Wasserzeichen hinzugefügt werden soll. Das Wasserzeichen wird während des Uploadvorganges automatisch hinzugefügt. Ein hinzugefügtes Wasserzeichen kann nicht mehr entfernt werden.
+Sie können veschiedene Wasserzeichen definieren, die dann bei hochgeladenen Bildern hinzugefügt werden. Sie können auch entscheiden, bei welchen Bildarten ein Wasserzeichen hinzugefügt werden soll. Das Wasserzeichen wird während des Uploadvorganges automatisch hinzugefügt. Ein hinzugefügtes Wasserzeichen kann nicht mehr entfernt werden.
 
 Wenn Sie die Originalbilder auch speichern, kann können Sie später die großen/mittleren/kleinen Bilder mit einem neuen oder ohne Wasserzeichen erneut erstellen lassen.
 

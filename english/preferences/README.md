@@ -9,5 +9,5 @@ In the module preferences you can set various options for this module:
 * [Options for image upload](options-for-image-upload.md)
 * [Options for image processing](options-for-image-processing.md)
 * [Options for display](options-for-display.md)
-* [Misc options](misc-options.md)
+* [Misc options](https://github.com/XoopsDocs/wggallery-tutorial/tree/bfc87e54493b9290299e127b0fe1a077b1075fc4/english/preferences/misc-options.md)
 

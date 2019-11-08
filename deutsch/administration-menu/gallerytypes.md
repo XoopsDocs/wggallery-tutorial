@@ -1,8 +1,6 @@
 # Galerietypen
 
-You can define various different gallery types. Depending on your selection and your settings the images will be shown in one of the slideshows .
-Sie können verschiedene Galerietypen definieren. Abhängig von Ihren Einstellungen werden die Bilder eines Albums in der gewählten Slideshow \(Galerietyp\) angezeigt.
-
+You can define various different gallery types. Depending on your selection and your settings the images will be shown in one of the slideshows . Sie können verschiedene Galerietypen definieren. Abhängig von Ihren Einstellungen werden die Bilder eines Albums in der gewählten Slideshow \(Galerietyp\) angezeigt.
 
 ## 1. Liste der Galerietypen
 
