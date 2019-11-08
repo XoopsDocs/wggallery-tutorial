@@ -34,12 +34,12 @@ Sie können einen beliebig großen Verzeichnisbaum erstellen.
 
 Abhängig von Ihren [Berechtigungen](./administration-menu/permissions.md) sehen Sie zusätzliche Schaltflächen wie z.B.
 
-* [Album anzeigen](displaying-albums.md)\)
-* [Bilderindex anzeigen](image-index.md)\)
-* [Bildermanagement](image-management.md)\)
-* [Bilder hochladen](uploading-images.md)\)
-* [Neues Album erstellen](create-new-album.md)\)
-* [Albumbild bearbeiten](album-image.md)\)
+* [Album anzeigen](displaying-albums.md)
+* [Bilderindex anzeigen](image-index.md)
+* [Bildermanagement](image-management.md)
+* [Bilder hochladen](uploading-images.md)
+* [Neues Album erstellen](create-new-album.md)
+* [Albumbild bearbeiten](album-image.md)
 * "Delete"
 * "Download album"
 
