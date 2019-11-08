@@ -14,57 +14,59 @@ Registerblatt Aktuell zeigt das derzeit verwendete Albumbild, sofern schon eines
 
 ### 2. Verwende im Album enthaltes Bild
 
-You can use on of the images, which are within your album. If you are editing a collection you will have all images of all subalbums available.  
-On left side you get a preview of all images. Click on one in order to show it in bigger preview on right side.
+Sie können ein Bild aus dem Album verwenden. Wenn Sie eine Albensammlung bearbeiten, dann haben Sie alle Bilder aller Unterablen zur Verfügung.
+Auf der linken Seite sehen Sie eine Bildervorschau. Nach dem Anklicken erschein auf der rechten Seite eine große Vorschau.
 
 ![](../../.gitbook/assets/albumimage2.png)
 
-For final selection please click on "Apply".
+Für die endgültige Übernahme bitte auf "Anwenden" klicken.
 
-### 3. Create a grid
+### 3. Bildercollage erstellen
 
-Optionally you can also create a grid of 4 or 6 images, based on images of your album.  
-First step: decide whether you want to make a grid of 4 or 6 images
+Optional können Sie auch eine Bildercollage mit 4 oder 6 Bildern erstellen, basierend auf den Bildern Ihres Albums. 
+Schritt eins: entscheiden Sie, ob Sie 4 oder 6 Bilder verwenden wollen
 
 ![](../../.gitbook/assets/albumimage31.png)
 
-Second step: select the images
+Schritt zwei: Bilder auswählen
 
-The images will be used on following position:
+Die Bilder werden an folgender Stelle verwendet:
 
-* 4 images: 
-  * 1 = top left
-  * 2 = top right
-  * 3 = bottom left
-  * 4 = bottom right
-* 6 images: 
-  * 1 = top left
-  * 2 = top center
-  * 3 = top right
-  * 4 = bottom left
-  * 5 = bottom cente
-  * 6 = bottom right
+* 4 Bilder: 
+  * 1 = Oben links
+  * 2 = Oben rechts
+  * 3 = Unten links
+  * 4 = Unten rechts
+* 6 Bilder: 
+  * 1 = Oben links
+  * 2 = Oben mitte
+  * 3 = Oben rechts
+  * 4 = Unten links
+  * 5 = Unten mitte
+  * 6 = Unten rechts
 
 ![](../../.gitbook/assets/albumimage32.png)
 
-After click on "Create grid" the image will be created and a preview appears on right side
+Nach dem Klick auf "Bildercollage erstellen" wird das Bild erstellt und auf der rechten Seite angezeigt.
 
 ![](../../.gitbook/assets/albumimage33.png)
 
-For final selection please click on "Apply".
+Für die endgültige Übernahme bitte auf "Anwenden" klicken.
 
-### 4. Crop image
+### 4. Bild zuschneiden
 
-Once you have selected an image for your album you can additonal crop or edit it.
+Wenn ein Bild gewählt wurde, dann kann dieses Bild zusätzlich bearbeitet werden.
 
 ![](../../.gitbook/assets/albumimage34.png)
 
-You can crop, zoom in or out, rotate and so on. If you think the selected range is fine then "Create image".  
-For final selection please click on "Apply".
+Sie können zuschneiden, zoomen, drehen und so weiter.
+Wenn der ausgewählte Bereich den Vorstellungen entspricht dann bitte auf "Bild erstellen" klicken.
 
-### 5. Upload new image
+Für die endgültige Übernahme bitte auf "Anwenden" klicken.
 
-Last possibility is to upload a new image or use one of the images in directory /uploads/wggallery/images/albums/.
+### 5. Neues Bild hochladen
+
+Als letzte Mölichkeit wird natürlich auch das Hochladen neuer Bilder in das Verzeichnis /uploads/wggallery/images/albums/ durchzuführen.
 
 ![](../../.gitbook/assets/albumimage35.png)
 
