@@ -1,4 +1,4 @@
-# Displaying albums
+# Alben anzeigen
 
 Depending on your selected gallery type the images will be shown in a gallery \(image grid or slideshow\).
 

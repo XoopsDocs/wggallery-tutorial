@@ -1,4 +1,4 @@
-# Image management
+# Bildermanagement
 
 ## Sorting of images
 

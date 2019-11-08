@@ -1,4 +1,4 @@
-# Image index
+# Bilderindex
 
 On the image index you can see all files of a specific album.
 

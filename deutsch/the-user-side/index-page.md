@@ -1,4 +1,4 @@
-# Index page
+# Indexseite
 
 On the main page of wgGallery you get an overview about all albums and collections, which are currently online.
 
