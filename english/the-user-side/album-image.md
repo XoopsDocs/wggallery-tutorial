@@ -42,7 +42,7 @@ The images will be used on following position:
   * 2 = top center
   * 3 = top right
   * 4 = bottom left
-  * 5 = bottom cente
+  * 5 = bottom center
   * 6 = bottom right
 
 ![](../../.gitbook/assets/albumimage32.png)
