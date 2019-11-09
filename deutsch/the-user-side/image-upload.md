@@ -16,15 +16,18 @@ wgGallery unterstützt den Multifile-Upload. Das Uploadtool führt neben dem nor
   * Ist die maximale Dateigröße überschritten?
   * Werden die maximal erlaubten Bilddimensionen \(Breite oder Höhe\) überschritten?
 
-  ![](../../.gitbook/assets/important.png) Sie können die Einstellungen betreffend der erlaubten Gößen unter [Optionen für bildupload](../preferences/options-for-image-upload.md) ändern.
+  ![](../../.gitbook/assets/important.png) Sie können die Einstellungen betreffend der erlaubten Gößen unter [Optionen für Bildupload](../preferences/options-for-image-upload.md) ändern.
 
-* If all files fullfill the conditions this will be confirmed ![](../../.gitbook/assets/upload2.png)
-* wgGallery takes the file name as default for image title. if you want to change you can click on the suggested title or on the pen and change as you want  ![](../../.gitbook/assets/upload3.png) 
-* Start upload
-* Processes during upload
-  * Storing original image \(if selected in preferences [Options for image upload](../preferences/options-for-image-upload.md)\)
-  * Resizing image corresponding settings in preferences [Options for image upload](../preferences/options-for-image-upload.md)
-  * Adding watermark, if a watermark is linked with current album \(see [Albums](../administration-menu/albums.md) and [Watermarks](../administration-menu/watermarks.md)\)
+* Wenn alle Dateien die Vorraussetzungen erfüllen wird dies durch wgGallery bestätigt ![](../../.gitbook/assets/upload2.png)
+
+* wgGallery verwendet standardmäßig den Dateinamen als Bildtitel. Wenn Sie Bildtitel ändern wollen so können Sie auf den vorgeschlagenen Titel oder den Bearbeiterstift klicken  ![](../../.gitbook/assets/upload3.png) 
+
+* Upload starten
+
+* Verarbeitungen während des Uploadvorganges
+  * Das Originalbild wird gespeichert, sofern dies in den Einstellungen [Optionen für Bilderupload](../preferences/options-for-image-upload.md) aktiviert wurde
+  * Die Bilder \(groß, mittel, Vorschaubild\) werden entsprechend den Einstellungen [Optionen für Bilderupload](../preferences/options-for-image-upload.md) erstellt
+  * Wasserzeichen werden hinzugefügt, sofern für das aktuelle Album Wasserzeichen gewählt wurden \(siehe [Alben](../administration-menu/albums.md) und [Wasserzeichen](../administration-menu/watermarks.md)\)
   * saving different types \(large, medium, thumb\) of images in upload directory
   * reading information of image
     * size
