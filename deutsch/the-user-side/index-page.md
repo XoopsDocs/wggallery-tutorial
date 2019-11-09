@@ -1,17 +1,18 @@
 # Indexseite
 
-On the main page of wgGallery you get an overview about all albums and collections, which are currently online.
+Auf der Hauptseite von wgGallery erhalten Sie eine Übersicht über alle Alben und Albensammlungen, welche derzeit online sind.
 
-![](../../.gitbook/assets/index1.png)
+![](../../.gitbook/assets/index1_de.png)
 
-## Additional buttons
+## Zusätzliche Schaltflächen
 
-Depending on your permissions \(see [Permissions](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/administration-menu/permissions)\) you will see addtional buttons like
+Abhängig von Ihren [Berechtigungen](../administration-menu/permissions.md) sehen Sie zusätzliche Schaltflächen wie z.B.
 
-* "Show album" \(see [Displaying albums](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/displaying-albums)\)
-* "Show images index \(see[ Image index](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/image-index)\)
-* "Edit" \(see [Create new album](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-LspRs8jjiGYCcVslyVk/english/the-user-side/create-new-album)\)
-* Submitter \(on image "webmaster"\), which will show a list of albums of this submitter
+* [Album anzeigen](displaying-albums.md)
+* [Bilderindex anzeigen](image-index.md)
+* [Bildermanagement](image-management.md)
+* [Bilder hochladen](ploading-images.md)
+* [Neues Album erstellen](create-new-album.md)
+* [Albumbild bearbeiten](album-image.md)
 * "Delete"
 * "Download album"
-

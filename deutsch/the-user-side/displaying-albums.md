@@ -1,8 +1,8 @@
 # Alben anzeigen
 
-Depending on your selected gallery type the images will be shown in a gallery \(image grid or slideshow\).
+Abhängig von dem gewählten Galerietyp werden die Bilder des Albums in einer Galerie \(Bilderverzeichnis oder Slideshow\) angezeigt.
 
-![Example: LC Lightbox LITE](../../.gitbook/assets/gallery1.png)
+![Beispiel: LC Lightbox LITE](../../.gitbook/assets/gallery1_de.png)
 
-![Example: Justified Gallery with Colorbox](../../.gitbook/assets/gallery2.png)
+![Beispiel: Justified Gallery with Colorbox](../../.gitbook/assets/gallery2_de.png)
 

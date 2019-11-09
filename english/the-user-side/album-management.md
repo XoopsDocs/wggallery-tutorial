@@ -30,12 +30,12 @@ You can create a nested tree up to as many levels you want.
 
 ## 3. Additional buttons
 
-Depending on your permissions \(see [Permissions](./administration-menu/permissions.md)\) you will see addtional buttons like
+Depending on your permissions \(see [Permissions](https://github.com/ggoffy/wggallery-tutorial/tree/bcf953498c64daac6437e86e50596fd2b0d01daa/english/the-user-side/administration-menu/permissions.md)\) you will see addtional buttons like
 
 * "Show album" \(see [Displaying albums](displaying-albums.md)\)
 * "Show images index \(see[ Image index](image-index.md)\)
 * "Image management \(see [Image management](image-management.md)\)
-* "Upload images \(see [Uploading images](uploading-images.md)\)
+* "Upload images \(see [Uploading images](https://github.com/ggoffy/wggallery-tutorial/tree/bcf953498c64daac6437e86e50596fd2b0d01daa/english/the-user-side/uploading-images.md)\)
 * "Edit album" \(see [Create new album](create-new-album.md)\)
 * "Edit album image" \(see [Album image](album-image.md)\)
 * "Delete"

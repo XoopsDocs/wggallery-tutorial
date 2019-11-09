@@ -6,11 +6,11 @@ Sie können beiliebig viele Alben erstellen, welche wiederum mit anderen Alben i
 
 Auf dem Registerblatt 'Alben' sehen Sie eine Liste der bestehenden Alben und deren wichtigsten Einstellungen.
 
-![Liste der Alben](../../.gitbook/assets/admin_album.png)
+![Liste der Alben](../../.gitbook/assets/admin_album_de.png)
 
 ## 2. Erstellen/Bearbeiten von Alben
 
-![Erstellen eines Albums](../../.gitbook/assets/admin_album_create.png)
+![Erstellen eines Albums](../../.gitbook/assets/admin_album_create_de.png)
 
 ### 2.1. Albumname
 

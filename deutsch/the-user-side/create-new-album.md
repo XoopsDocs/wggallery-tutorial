@@ -1,56 +1,57 @@
 # Neues Album erstellen
 
-## 1. Steps for creation of album/collection
+## 1. Schritte zum Erstellen von Alben/Albensammlungen
 
-* Open form
-* Enter data
-* Submit only or submit and goto image upload \(see [Uploading images](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-Lspqw60el_nyD4U0eKE/english/the-user-side/uploading-images)\)
+* Formular öffnen
+* Daten eingeben
+* Absenden und gegebenenfalls zum [Bilder hochladen](uploading-images.md) gehen
 
-![](../../.gitbook/assets/albumcreate1.png)
+![](../../.gitbook/assets/albumcreate1_de.png)
 
-## 2. Fields
+## 2. Felder
 
 ### Name
 
-Enter a name for your album
+Name des Albums eingeben
 
-### Parent collection
+### Übergeordnete Albensammlung
 
-If you want to add the album to a specific collection then select this. Otherwise let it blank.
+Wenn Sie die Anmeldung einer bestimmten Albensammlung zuweisen wollen dann können Sie dies hier definieren, ansonsten frei lassen.
 
-### Description
+### Beschreibung
 
-If you want to can put more details or information about your album in here.
+Sie können weitere Details für Ihr Album hier erfassen.
 
-### State
+### Satus
 
-Define the state. As long as it is not "Online" the album is not visible for regular users. If you have not the permission to submit an album without approval then album will automatically get status "Waiting for approval".
+Definieren Sie den Status. Solange der Status nicht "Online" ist, ist das Album für andere User nicht sichtbar. Wenn Sie nicht die Brechtigung zum Einsenden von Alben ohne Freigabe haben, dann wird der Status des Albums automatisch auf "Warten auf Freigabe" gesetzt.
 
-### Permissions to view
+### Berechtigung zum Ansehen
 
-Define the groups with permission to see this album/collection.
+Definieren Sie die Gruppen mit der Berechtigung zum Ansehen der Alben.
 
-### Permissions to download full album
+### Berechtigung zum Download des gesamten Albums
 
-Define the groups with permission to download full album this album. This is not valid for collections.
+Definieren Sie die Gruppen mit der Berechtigung zum Download der Alben als Ganzes. Diese Einstellung ist für Albensammlungen nicht gültig.
 
-### Permissions to view/download large images
+### Berechtigung zum Anzeigen/Downloaden großer Bildern
 
-Define the groups with permission to view/download large images of this album. This is not valid for collections.
+Definieren Sie die Gruppen mit der Berechtigung zum Anzeigen und Downloaden der großen Bilder. Diese Einstellung ist für Albensammlungen nicht gültig.
 
-### Permissions to view/download medium images
+### Berechtigung zum Anzeigen/Downloaden mittlerer Bildern
 
-Define the groups with permission to view/download medium images of this album. This is not valid for collections.
+Definieren Sie die Gruppen mit der Berechtigung zum Anzeigen und Downloaden der mittleren Bilder. Diese Einstellung ist für Albensammlungen nicht gültig.
 
-### Watermark
+### Wasserzeichen
 
-If the watermarks have to be selected for each album seperately then you can select one of existing watermarks. For more information see also [Watermarks](../administration-menu/watermarks.md)
+Sofern ein Wasserzeichen je Album aktiviert werden kann so ist hier das entsprechende Wasserzeichen zu wählen.
+Für weitere Informationen siehe auch [Wasserzeichen](../administration-menu/watermarks.md)
 
-### Select categories
+### Kategorien auswählen
 
-If you are using categories then you can select one or more categories which classify your album. For more information see also [Categories](../administration-menu/categories.md)
+Sofern Sie Kategorien verwenden so können Sie hier eine oder mehrere Kategorien auswählen.
+Für weitere Informationen siehe auch [Kategorien](../administration-menu/categories.md)
 
-### Enter tags
+### Tags eingeben
 
-Additionally to categories you can use tags to put additional information to your album.
-
+Zusaätzlich zu den Kategorien können weitere Informationen als Tags erfasst werden.

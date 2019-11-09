@@ -10,11 +10,11 @@ Sie können jedes Album mit einem andern Wasserzeichen verbinden.
 
 Auf dem Registerblatt 'Wasserzeichen' sehen Sie eine Liste der bestehenden Wasserzeichen und deren wichtigsten Einstellungen.
 
-![Liste der Wasserzeichen](../../.gitbook/assets/watermark1.png)
+![Liste der Wasserzeichen](../../.gitbook/assets/watermark1_de.png)
 
 ## 2. Erstellen/Bearbeiten von Wasserzeichen
 
-![Erstellen/Bearbeiten von Wasserzeichen](../../.gitbook/assets/watermark2.png)
+![Erstellen/Bearbeiten von Wasserzeichen](../../.gitbook/assets/watermark2_de.png)
 
 ### 2.1. Name
 

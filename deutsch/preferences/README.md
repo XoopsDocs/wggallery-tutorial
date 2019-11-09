@@ -2,7 +2,7 @@
 
 In den Moduleinstellungen können Sie zahlreichen Optionen für dieses Modul festlegen:
 
-![](../../.gitbook/assets/preferences1.png)
+![](../../.gitbook/assets/preferences1_de.png)
 
 ## Optionen im Detail
 

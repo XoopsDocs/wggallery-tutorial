@@ -10,11 +10,11 @@ Auf dem Registerblatt 'Bilder' sehen Sie eine Liste der derzeit existierenden Bi
 
 Liste der Albumtypen
 
-![Startansicht](../../.gitbook/assets/adminimages1.png)
+![Startansicht](../../.gitbook/assets/adminimages1_de.png)
 
 Nachdem Sie ein Album ausgewählt haben werden die dazugehörigen Bilder angezeigt.
 
-![Lise der Bilder pro Album](../../.gitbook/assets/adminimages2.png)
+![Lise der Bilder pro Album](../../.gitbook/assets/adminimages2_de.png)
 
 ## 2. Hinzufügen von Bildern
 

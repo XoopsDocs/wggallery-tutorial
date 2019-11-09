@@ -1,19 +1,19 @@
 # Bilderindex
 
-On the image index you can see all files of a specific album.
+Im Bilderindex sehen Sie alle Blder von einem bestimmten Album.
 
-![](../../.gitbook/assets/imageindex1.png)
+![](../../.gitbook/assets/imageindex1_de.png)
 
-On index site you can see
+Auf der Bilderindexseite sehen Sie
 
-* a preview of the image
-* information related to the image
+* eine Bildvorschau
+* die zum Bild vorhandenen Informationen
 
-For each image you can \(if you have the permission\)
+Für jedes Bild können Sie \(sofern Sie die entsprechenden Berechtigungen besitzenn\)
 
-* Show image: depending your setting in preferences [Options for display](../preferences/options-for-display.md) the image will be shown in a new tab, as modal, and so on.
-* Edit image information
-* Delete the image
-* Rotate left or right
-* Download: depending your settings in [Permissions](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-Lsp6ZJlrSkVXk5zy3up/english/administration-menu/permissions) the large or medium image will be provided for download
+* Bild anzeigen: abhängig von Ihren Einstellungen bei [Optionen für Anzeige](../preferences/options-for-display.md) wird das Bild in einem neuen Register, als modales Fenster, usw. angezeigt.
+* Bildinformationen bearbeiten
+* Bilder löschene
+* Bilder links oder rechts drehen
+* Bild herunterladen: abhängig von Ihren Einstellungen bei [Berechtigungen](../administration-menu/permissions.md) wird entweder das große oder das mittlere Bild zum Download bereitgestellt
 
