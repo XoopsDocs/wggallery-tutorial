@@ -17,5 +17,5 @@ Es sind keine speziellen Maßnahmen erforderlich, führen Sie den Standardinstal
 
 Zur Deinstallation klicken sie einfach auf den roten Pfeil
 
-![Deinstallation in der Moduladministration](../.gitbook/assets/uninstall_de.png)
+![Deinstallation in der Moduladministration](https://github.com/ggoffy/wggallery-tutorial/tree/6db781ee87636b25a81862e0b0e16b456c78ac72/.gitbook/assets/uninstall_de.png)
 
