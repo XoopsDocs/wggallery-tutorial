@@ -59,7 +59,7 @@ All used templates on user side are fully responsive.
 
 ![Example of image gallery on user side](.gitbook/assets/gallery1.png)
 
-![Dashboard on admin side](.gitbook/assets/dashboard1.png)
+![Dashboard on admin side](.gitbook/assets/dashboard1%20%281%29.png)
 
 ## License:
 

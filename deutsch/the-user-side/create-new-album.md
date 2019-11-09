@@ -4,7 +4,7 @@
 
 * Formular öffnen
 * Daten eingeben
-* Absenden und gegebenenfalls zum [Bilder hochladen](uploading-images.md) gehen
+* Absenden und gegebenenfalls zum [Bilder hochladen](https://github.com/ggoffy/wggallery-tutorial/tree/6db781ee87636b25a81862e0b0e16b456c78ac72/deutsch/the-user-side/uploading-images.md) gehen
 
 ![](../../.gitbook/assets/albumcreate1_de.png)
 
@@ -44,14 +44,13 @@ Definieren Sie die Gruppen mit der Berechtigung zum Anzeigen und Downloaden der 
 
 ### Wasserzeichen
 
-Sofern ein Wasserzeichen je Album aktiviert werden kann so ist hier das entsprechende Wasserzeichen zu wählen.
-Für weitere Informationen siehe auch [Wasserzeichen](../administration-menu/watermarks.md)
+Sofern ein Wasserzeichen je Album aktiviert werden kann so ist hier das entsprechende Wasserzeichen zu wählen. Für weitere Informationen siehe auch [Wasserzeichen](../administration-menu/watermarks.md)
 
 ### Kategorien auswählen
 
-Sofern Sie Kategorien verwenden so können Sie hier eine oder mehrere Kategorien auswählen.
-Für weitere Informationen siehe auch [Kategorien](../administration-menu/categories.md)
+Sofern Sie Kategorien verwenden so können Sie hier eine oder mehrere Kategorien auswählen. Für weitere Informationen siehe auch [Kategorien](../administration-menu/categories.md)
 
 ### Tags eingeben
 
 Zusaätzlich zu den Kategorien können weitere Informationen als Tags erfasst werden.
+

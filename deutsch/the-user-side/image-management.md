@@ -17,3 +17,4 @@ Für jedes Bild können Sie \(sofern Sie die entsprechenden Berechtigungen besit
 * Bilder löschene
 * Bilder links oder rechts drehen
 * Bild herunterladen: abhängig von Ihren Einstellungen bei [Berechtigungen](../administration-menu/permissions.md) wird entweder das große oder das mittlere Bild zum Download bereitgestellt
+

@@ -5,7 +5,7 @@ Auf dem Registerblatt 'Import' stehen derzeit Importroutinen für folgende Modul
 * extGallery
 * TDMPicture
 
-![&#xDC;versicht Importroutinen](../../.gitbook/assets/import1_de.png)
+![&#xDC;versicht Importroutinen](https://github.com/ggoffy/wggallery-tutorial/tree/6db781ee87636b25a81862e0b0e16b456c78ac72/.gitbook/assets/import1_de.png)
 
 Sofern Sie eine weitere Importroutine benötigen kontaktieren Sie den Modulentwickler.
 
