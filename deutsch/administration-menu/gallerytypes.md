@@ -6,7 +6,7 @@ You can define various different gallery types. Depending on your selection and 
 
 Auf dem Registerblatt 'Galerietypen' sehen Sie eine Liste der bestehenden Alben und deren wichtigsten Einstellungen.
 
-![Liste der Galerietypen](../../.gitbook/assets/gallerytypes1.png)
+![Liste der Galerietypen](../../.gitbook/assets/gallerytypes1_de.png)
 
 Folgende Galerietypen sind derzeit implentiert:
 

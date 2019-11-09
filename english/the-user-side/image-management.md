@@ -2,7 +2,7 @@
 
 ## Sorting of images
 
-After selecting the album the upload area appears
+After selecting the album a list with all images of this album appears
 
 ![](../../.gitbook/assets/imagemanagement1.png)
 

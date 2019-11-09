@@ -57,13 +57,13 @@ Alle verwendeten Templates auf der Benutzerseite sind voll Responsive.
 
 **Dieses Modul funktioniert nur in Kombination mit einem Bootstrap Theme oder Sie müssen Bootstrap zusätzlich einbinden.**
 
-![Beispiel einer Bildergalerie auf der Benutzerseite](../.gitbook/assets/gallery1.png)
+![Beispiel einer Bildergalerie auf der Benutzerseite](../.gitbook/assets/gallery1_de.png)
 
-![&#xDC;bersichtsseite im Adminbereich](../.gitbook/assets/0dashboard.png)
+![&#xDC;bersichtsseite im Adminbereich](../.gitbook/assets/dashboard1_de.png)
 
 ## Lizenz:
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31_de.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Sofern nicht anders spezifiziert ist der Inhalt lizenziert unter [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Alle Derivate sind ein Beitrag zum XOOPS Projekt \(www.xoops.org\)

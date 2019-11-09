@@ -11,7 +11,7 @@ Albumtypen werden verwendet für die Anzeige:
 
 Auf dem Registerblatt 'Albumtypen' sehen Sie eine Liste der derzeit existierenden Albumtypen.
 
-![Liste der Albumtypen](../../.gitbook/assets/albumtypes1.png)
+![Liste der Albumtypen](../../.gitbook/assets/albumtypes1_de.png)
 
 Folgenden Albumtypen sind derzeit implementiert:
 

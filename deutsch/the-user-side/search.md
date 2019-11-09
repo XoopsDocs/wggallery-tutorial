@@ -1,6 +1,6 @@
 # Suche Alben und Bilder
 
-wgGallery contains additonally to XOOPS search a specific search for albums and images.
+wgGallery enthält zusätzlich zur XOOPS Suchfunktion eine spezielle Suchseite für Alben und Bilder.
 
-![](../../.gitbook/assets/search1.png)
+![](../../.gitbook/assets/search1_de.png)
 

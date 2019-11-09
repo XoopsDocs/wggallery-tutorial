@@ -8,11 +8,11 @@ Die Kategorien können außerdem für eine gezielte Suche verwendet werden \(sie
 
 Auf dem Registerblatt 'Kategorien' sehen Sie eine Liste der bestehenden Alben und deren wichtigsten Einstellungen.
 
-![Liste der Kategorien](../../.gitbook/assets/categories1.png)
+![Liste der Kategorien](../../.gitbook/assets/categories1_de.png)
 
 ## 2. Erstellen/Bearbeiten von Kategorien
 
-![Erstellen/Bearbeiten von Kategorien](../../.gitbook/assets/categories2.png)
+![Erstellen/Bearbeiten von Kategorien](../../.gitbook/assets/categories2_de.png)
 
 ### 2.1. Kategorietext
 

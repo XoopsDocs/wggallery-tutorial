@@ -1,6 +1,6 @@
 # About XOOPS CMS
 
-![](../.gitbook/assets/logoxoops.jpg)
+![](../.gitbook/assets/logoxoops%20%281%29.jpg)
 
 ## About XOOPS CMS
 

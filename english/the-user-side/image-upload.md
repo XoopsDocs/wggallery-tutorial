@@ -8,7 +8,7 @@ wgGallery supports multifile upload. The upload tool handle the upload itself, b
 
 ![](../../.gitbook/assets/upload1.png)
 
-* Select your files by using your explorer \(click on "Select files"\) or with drag&drop into the drop zone.  ![](../../.gitbook/assets/important.png) Important: there is no file limit from wgGallery, how many files you want to upload at once, but you are limited maybe by the system settings \(php settings\). You can check your settings under maintenance [System check](../administration-menu/maintenance/system-check.md)
+* Select your files by using your explorer \(click on "Select files"\) or with drag&drop into the drop zone.  ![](../../.gitbook/assets/important%20%281%29.png) Important: there is no file limit from wgGallery, how many files you want to upload at once, but you are limited maybe by the system settings \(php settings\). You can check your settings under maintenance [System check](../administration-menu/maintenance/system-check.md)
 * After adding the files wgGallery checks the images whether they are fullfilling the conditions:
 
   * Is the allowed maximum size exceeded?
@@ -21,7 +21,7 @@ wgGallery supports multifile upload. The upload tool handle the upload itself, b
 * Start upload
 * Processes during upload
   * Storing original image \(if selected in preferences [Options for image upload](../preferences/options-for-image-upload.md)\)
-  * Resizing image corresponding settings in preferences [Options for image upload](../preferences/options-for-image-upload.md)
+  * Resizing image corresponding settings in preferences [Options for image upload](../preferences/options-for-image-upload.md) to large, medium, thumb
   * Adding watermark, if a watermark is linked with current album \(see [Albums](../administration-menu/albums.md) and [Watermarks](../administration-menu/watermarks.md)\)
   * saving different types \(large, medium, thumb\) of images in upload directory
   * reading information of image

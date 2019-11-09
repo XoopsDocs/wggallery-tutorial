@@ -1,20 +1,19 @@
 # Bildermanagement
 
-## Sorting of images
+## Sortieren von Bildern
 
-After selecting the album the upload area appears
+Nach dem Auswählen eines Albums erscheint eine Liste der enthaltenen Bilder
 
-![](../../.gitbook/assets/imagemanagement1.png)
+![](../../.gitbook/assets/imagemanagement1_de.png)
 
-You can simply sort the images by drag&drop.
+Sie können die Bilder einfach mit Drag&Drop sortieren.
 
-## Additional buttons
+## Zusätzliche Schaltflächen
 
-For each image you can \(if you have the permission\)
+Für jedes Bild können Sie \(sofern Sie die entsprechenden Berechtigungen besitzenn\)
 
-* Show image: depending your setting in preferences [Options for display](../preferences/options-for-display.md) the image will be shown in a new tab, as modal, and so on.
-* Edit image information
-* Delete the image
-* Rotate left or right
-* Download: depending your settings in [Permissions](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-Lsp6ZJlrSkVXk5zy3up/english/administration-menu/permissions) the large or medium image will be provided for download
-
+* Bild anzeigen: abhängig von Ihren Einstellungen bei [Optionen für Anzeige](../preferences/options-for-display.md) wird das Bild in einem neuen Register, als modales Fenster, usw. angezeigt.
+* Bildinformationen bearbeiten
+* Bilder löschene
+* Bilder links oder rechts drehen
+* Bild herunterladen: abhängig von Ihren Einstellungen bei [Berechtigungen](../administration-menu/permissions.md) wird entweder das große oder das mittlere Bild zum Download bereitgestellt

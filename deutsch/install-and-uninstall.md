@@ -8,7 +8,7 @@ Es sind keine speziellen Maßnahmen erforderlich, führen Sie den Standardinstal
 * Loggen sie sich als Administrator und wechseln sie zur Xoops Administrationseite
 * Installieren Sie das Modul über Administration -&gt; Module -&gt; Module installieren
 
-  ![Die Moduladministration und Installation](../.gitbook/assets/install.png)
+  ![Die Moduladministration und Installation](../.gitbook/assets/install_de.png)
 
 * Konfigurieren sie das Modul
 * Die nächsten Schritte sind nun die Rechteverwaltung des Modules und der Blöcke in System --&gt; Gruppen.
@@ -17,5 +17,5 @@ Es sind keine speziellen Maßnahmen erforderlich, führen Sie den Standardinstal
 
 Zur Deinstallation klicken sie einfach auf den roten Pfeil
 
-![Deinstallation in der Moduladministration](../.gitbook/assets/uninstall.png)
+![Deinstallation in der Moduladministration](../.gitbook/assets/uninstall_de.png)
 
