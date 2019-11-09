@@ -1,20 +1,22 @@
 # Bilder hochladen
 
-wgGallery supports multifile upload. The upload tool handle the upload itself, but also various other jobs.
+wgGallery unterstützt den Multifile-Upload. Das Uploadtool führt neben dem normalen Uploadvorgang auch noch zusätzliche Aufgaben aus.
 
-### Steps for upload
+### Schritte für das Hochladen
 
-* Select album After selecting the album the upload area appears
+* Wählen Sie das gewünschte Album aus. Danach erscheint der Uploadbereich
 
 ![](../../.gitbook/assets/upload1.png)
 
-* Select your files by using your explorer \(click on "Select files"\) or with drag&drop into the drop zone.  ![](../../.gitbook/assets/important.png) Important: there is no file limit from wgGallery, how many files you want to upload at once, but you are limited maybe by the system settings \(php settings\). You can check your settings under maintenance [System check](../administration-menu/maintenance/system-check.md)
-* After adding the files wgGallery checks the images whether they are fullfilling the conditions:
+* Wählen Sie Ihre Bilddateien über den Explorer aus \(Klick auf "Dateien auswählen"\) oder ziehen Sie diese mit Drag&Drop in die Drop-Zonee. 
+![](../../.gitbook/assets/important.png) Achtung: seitens wgGallery besteht kein Limit, wieviele Dateien Sie auf einmal hochladen können, aber wahrscheinlich sind Sie durch Ihr Webseitensystem \(PHP-Einstellungen\) limitiert. Sie können Ihre Einstellungen unter Wartung [Systemcheck](../administration-menu/maintenance/system-check.md) überprüfen.
 
-  * Is the allowed maximum size exceeded?
-  * Is the allowed image dimension \(width or height\) exceeded?
+* Nach dem Hinzufügen der Dateien in die Uploadliste überprüft wgGallery, ob die Dateien die Voraussetzungen erfüllen:
 
-  ![](../../.gitbook/assets/important.png) You can change settings for allowed size/image dimension in [Options for image upload](../preferences/options-for-image-upload.md)
+  * Ist die maximale Dateigröße überschritten?
+  * Werden die maximal erlaubten Bilddimensionen \(Breite oder Höhe\) überschritten?
+
+  ![](../../.gitbook/assets/important.png) Sie können die Einstellungen betreffend der erlaubten Gößen unter [Optionen für bildupload](../preferences/options-for-image-upload.md) ändern.
 
 * If all files fullfill the conditions this will be confirmed ![](../../.gitbook/assets/upload2.png)
 * wgGallery takes the file name as default for image title. if you want to change you can click on the suggested title or on the pen and change as you want  ![](../../.gitbook/assets/upload3.png) 
