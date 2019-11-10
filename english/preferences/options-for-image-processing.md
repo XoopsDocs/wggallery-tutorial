@@ -39,3 +39,4 @@ Define whether you want to save the meta data \(exif\) of the images
 ## Extract tags of exif
 
 Define which exif data should be automatically extraced from exif and added to an image as a tag<br>The option 'Use tags' must be activated
+
