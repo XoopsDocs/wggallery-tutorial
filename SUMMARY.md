@@ -73,4 +73,3 @@
   * [Templates](deutsch/templates.md)
   * [Module Credits](deutsch/module-credits.md)
   * [About XOOPS CMS](deutsch/about-xoops-cms.md)
-
