@@ -36,3 +36,6 @@ Definieren Sie die maximale Höhe, auf die die hochgeladenen Bilder für Format 
 
 Definieren sie, ob Sie die Metadaten der Bilder \(exif-Daten\) speichern wollen
 
+## Tags aus Exif-Daten extrahieren
+
+Definieren Sie, ob sie bestimmte Informationen automatisch aus den Exif-Daten extrahieren und als Tags zum Bild abspeichern wollen<br>Die Option 'Tags verwenden' muss aktiviert sein
