@@ -6,7 +6,7 @@ Auf der Indexseite im Benutzerbereich erhalten Sie eine Übersicht über alle Al
 
 Abhängig von den Berechtigungen des aktuellen Users haben Sie folgende Möglichkeiten
 
-* [Albummanagement](album-management.md)
+* [Albenmanagement](album-management.md)
 * [Album erstellen](create-new-album.md)
 * [Bilder hochladen](image-upload.md)
 * [Suche Alben oder Bilder](search.md)
