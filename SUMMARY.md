@@ -26,7 +26,7 @@
   * [The User Side](english/the-user-side/README.md)
     * [Index page](english/the-user-side/index-page.md)
     * [Displaying albums](english/the-user-side/displaying-albums.md)
-    * [Albummanagement](english/the-user-side/album-management.md)
+    * [Album Management](english/the-user-side/album-management.md)
     * [Image index](english/the-user-side/image-index.md)
     * [Image management](english/the-user-side/image-management.md)
     * [Create new album](english/the-user-side/create-new-album.md)
